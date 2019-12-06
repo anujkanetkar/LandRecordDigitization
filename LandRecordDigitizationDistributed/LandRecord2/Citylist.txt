@@ -1,0 +1,5564 @@
+Kupwara,01
+Handwara,01
+Karnah,01
+Gurez,01
+Bandipore,01
+Sonawari,01
+Sopore,01
+Pattan,01
+Baramula,01
+Uri,01
+Gulmarg,01
+Kangan,01
+Ganderbal,01
+Srinagar,01
+Beerwah,01
+Badgam,01
+Chadura,01
+Pampore,01
+Tral,01
+Pulwama,01
+Shupiyan,01
+Pahalgam,01
+Bijbehara,01
+Anantnag,01
+Kulgam,01
+Duru,01
+Leh,01
+Kargil,01
+Zanskar,01
+Banihal,01
+Ramban,01
+Doda,01
+Kishtwar,01
+Thathri,01
+Bhalessa (Gandoh),01
+Bhaderwah,01
+Gool Gulab Garh,01
+Reasi,01
+Udhampur,01
+Chenani,01
+Ramnagar,01
+Haveli,01
+Mendhar,01
+Surankote,01
+Thanamandi,01
+Rajauri,01
+Budhal,01
+Kalakote,01
+Nowshehra ,01
+Sunderbani  ,01
+Akhnoor,01
+Jammu,01
+Ranbirsinghpora,01
+Bishna,01
+Samba,01
+Billawar,01
+Bashohli,01
+Kathua,01
+Hiranagar,01
+Pangi(T),02
+Chaurah(T),02
+Saluni(T),02
+Bhalai(S.T),02
+Dalhousie(T),02
+Bhattiyat(T),02
+Sihunta(S.T),02
+Chamba(T),02
+Holi(S.T),02
+Brahmaur(T),02
+Nurpur(T),02
+Indora(T),02
+Fatehpur(T),02
+Jawali(T),02
+Harchakian(S.T),02
+Shahpur(T),02
+Dharmsala(T),02
+Kangra(T),02
+Baroh(T),02
+Dera Gopipur(T),02
+Jaswan(T),02
+Rakkar(S.T),02
+Khundian(T),02
+Thural(S.T),02
+Dhira(S.T),02
+Jai Singhpur(T),02
+Palampur(T),02
+Baijnath(T),02
+Multhan(S.T),02
+Udaipur (S.T),02
+Lahul(T),02
+Spiti       (T),02
+Manali(T),02
+Kullu(T),02
+Sainj(S.T),02
+Banjar(T),02
+Ani(S.T),02
+Nermand(T),02
+Padhar(T),02
+Jogindarnagar(T),02
+Lad Bharol(T),02
+Sandhol(S.T),02
+Dharmpur(S.T),02
+Kotli(S.T),02
+Sarkaghat(T),02
+Baldwara(S.T),02
+Sundarnagar(T),02
+Mandi(T),02
+Aut(S.T),02
+Bali Chowki(S.T),02
+Thunag(T),02
+Chachyot(T),02
+Nihri(S.T),02
+Karsog(T),02
+Tira Sujanpur(T),02
+Nadaun(T),02
+Hamirpur(T),02
+Barsar(T),02
+Dhatwal(ST),02
+Bhoranj(T),02
+Bharwain(S.T),02
+Amb(T),02
+Bangana(T),02
+Una(T),02
+Haroli(S.T),02
+Ghumarwin(T),02
+Jhanduta(T),02
+Naina Devi(S.T),02
+Bilaspur Sadar(T),02
+Arki(T),02
+Ramshahr(S.T),02
+Nalagarh(T),02
+Krishangarh(S.T),02
+Kasauli(T),02
+Solan(T),02
+Kandaghat(T),02
+Rajgarh(T),02
+Nohra(S.T),02
+Pachhad(T),02
+Renuka(T),02
+Dadahu(S.T),02
+Nahan(T),02
+Paonta Sahib(T),02
+Kamrau(S.T),02
+Shalai(T),02
+Ronhat(S.T),02
+Rampur(T),02
+Nankhari(S.T),02
+Kumharsain(T),02
+Seoni(T),02
+Shimla Rural(T),02
+Shimla Urban(T),02
+Junga(S.T),02
+Theog(T),02
+Chaupal(T),02
+Cheta(S.T),02
+Nerua(S.T),02
+Jubbal(T),02
+Kotkhai(T),02
+Tikar(S.T),02
+Rohru(T),02
+Chirgaon(T),02
+Dodra Kwar(T),02
+Hangrang(S.T),02
+Poo(T),02
+Morang(T),02
+Kalpa(T),02
+Nichar(T),02
+Sangla(T),02
+Dhar Kalan,03
+Pathankot,03
+Gurdaspur,03
+Batala,03
+Dera Baba Nanak,03
+Ajnala,03
+Amritsar -I,03
+Amritsar- II,03
+Tarn-Taran,03
+Patti,03
+Khadur Sahib,03
+Baba Bakala,03
+Bhulath,03
+Kapurthala,03
+Sultanpur Lodhi,03
+Phagwara,03
+Shahkot,03
+Nakodar,03
+Phillaur,03
+Jalandhar - I,03
+Jalandhar -II,03
+Dasua,03
+Mukerian,03
+Hoshiarpur,03
+Garhshankar,03
+Nawanshahr,03
+Balachaur,03
+Anandpur Sahib,03
+Rupnagar,03
+Kharar,03
+S.A.S.Nagar (Mohali),03
+Bassi Pathana,03
+Fatehgarh Sahib,03
+Amloh,03
+Khamanon,03
+Samrala,03
+Khanna,03
+Payal,03
+Ludhiana (East),03
+Ludhiana (West),03
+Raikot,03
+Jagraon,03
+Nihal Singhwala,03
+Bagha Purana,03
+Moga,03
+Zira,03
+Firozepur,03
+Jalalabad,03
+Fazilka,03
+Abohar,03
+Malout,03
+Giddarbaha,03
+Muktsar,03
+Faridkot,03
+Jaitu,03
+Rampura Phul,03
+Bathinda,03
+Talwandi Sabo,03
+Sardulgarh,03
+Budhlada,03
+Mansa,03
+Barnala,03
+Malerkotla,03
+Dhuri,03
+Sangrur,03
+Sunam,03
+Moonak,03
+Samana,03
+Nabha,03
+Patiala,03
+Rajpura,03
+Dera Bassi,03
+Chandigarh,04
+Puraula,05
+Rajgarhi,05
+Dunda,05
+Bhatwari,05
+Joshimath ,05
+Chamoli,05
+Pokhari **,05
+Karnaprayag ,05
+Tharali,05
+Gair Sain **,05
+Ukhimath,05
+Rudraprayag ,05
+Ghansali **,05
+Devprayag,05
+Pratapnagar,05
+Tehri,05
+Narendranagar,05
+Chakrata,05
+Vikasnagar **,05
+Dehradun,05
+Rishikesh **,05
+Srinagar **,05
+Pauri,05
+Thali Sain,05
+Dhoomakot,05
+Lansdowne ,05
+Kotdwara,05
+Munsiari,05
+Dharchula,05
+Didihat,05
+Gangolihat,05
+Pithoragarh,05
+Kapkot **,05
+Bageshwar ,05
+Bhikia Sain,05
+Ranikhet,05
+Almora,05
+Champawat,05
+Kosya Kutauli,05
+Nainital,05
+Dhari,05
+Haldwani,05
+Kashipur,05
+Kichha,05
+Sitarganj,05
+Khatima,05
+Roorkee,05
+Hardwar,05
+Laksar,05
+Kalka,06
+Panchkula,06
+Naraingarh,06
+Ambala,06
+Barara,06
+Jagadhri,06
+Chhachhrauli,06
+Shahbad,06
+Pehowa,06
+Thanesar,06
+Guhla,06
+Kaithal,06
+Nilokheri,06
+Indri,06
+Karnal,06
+Assandh,06
+Gharaunda,06
+Panipat,06
+Israna,06
+Samalkha,06
+Gohana,06
+Ganaur,06
+Sonipat,06
+Kharkhoda,06
+Narwana,06
+Jind,06
+Julana,06
+Safidon,06
+Ratia,06
+Tohana,06
+Fatehabad,06
+Dabwali,06
+Sirsa,06
+Rania,06
+Ellenabad,06
+Adampur,06
+Hisar,06
+Narnaund,06
+Hansi,06
+Bawani Khera,06
+Bhiwani,06
+Tosham,06
+Siwani,06
+Loharu ,06
+Dadri,06
+Maham,06
+Rohtak,06
+Beri,06
+Bahadurgarh,06
+Jhajjar,06
+Mahendragarh,06
+Narnaul,06
+Kosli,06
+Rewari,06
+Bawal,06
+Pataudi,06
+Gurgaon,06
+Sohna,06
+Taoru,06
+Nuh,06
+Ferozepur Jhirka,06
+Punahana,06
+Faridabad,06
+Ballabgarh,06
+Palwal,06
+Hathin,06
+Hodal,06
+Narela,07
+Saraswati Vihar,07
+Model Town,07
+Civil Lines,07
+Sadar Bazar,07
+Kotwali,07
+Seelam Pur,07
+Shahdara,07
+Seema Puri,07
+Gandhi Nagar,07
+Vivek Vihar,07
+Preet Vihar,07
+Parliament Street,07
+Connaught Place,07
+Chanakya Puri,07
+Karol Bagh,07
+Pahar Ganj,07
+Darya Ganj,07
+Punjabi Bagh,07
+Patel Nagar,07
+Rajouri Garden,07
+Najafgarh,07
+Delhi Cantonment.,07
+Vasant Vihar,07
+Defence Colony,07
+Hauz Khas,07
+Kalkaji,07
+Karanpur,08
+Ganganagar,08
+Sadulshahar,08
+Padampur,08
+Raisinghnagar,08
+Anupgarh,08
+Gharsana,08
+Vijainagar,08
+Suratgarh,08
+Sangaria,08
+Tibi,08
+Hanumangarh,08
+Pilibanga,08
+Rawatsar,08
+Nohar,08
+Bhadra,08
+Bikaner,08
+Poogal,08
+Lunkaransar,08
+Kolayat,08
+Nokha,08
+Khajuwala,08
+Chhatargarh,08
+Taranagar,08
+Rajgarh,08
+Sardarshahar,08
+Churu,08
+Dungargarh,08
+Ratangarh,08
+Sujangarh,08
+Jhunjhunun,08
+Chirawa,08
+Buhana,08
+Khetri,08
+Nawalgarh,08
+Udaipurwati,08
+Behror,08
+Mandawar,08
+Kotkasim,08
+Tijara,08
+Kishangarh Bas,08
+Ramgarh,08
+Alwar,08
+Bansur,08
+Thanagazi,08
+Rajgarh,08
+Lachhmangarh,08
+Kathumar,08
+Pahari,08
+Kaman,08
+Nagar,08
+Deeg,08
+Nadbai,08
+Kumher,08
+Bharatpur,08
+Weir,08
+Bayana,08
+Rupbas,08
+Baseri,08
+Bari,08
+Sepau,08
+Dhaulpur,08
+Rajakhera,08
+Todabhim,08
+Nadoti,08
+Hindaun,08
+Karauli,08
+Mandrail,08
+Sapotra,08
+Gangapur,08
+Bamanwas,08
+Malarna Doongar,08
+Bonli,08
+Chauth Ka Barwara,08
+Sawai Madhopur,08
+Khandar,08
+Baswa,08
+Mahwa,08
+Sikrai,08
+Dausa,08
+Lalsot,08
+Kotputli,08
+Viratnagar,08
+Shahpura,08
+Chomu,08
+Phulera (HQ.Sambhar),08
+Dudu (HQ. Mauzamabad),08
+Phagi,08
+Sanganer,08
+Jaipur,08
+Amber,08
+Jamwa Ramgarh,08
+Bassi,08
+Chaksu,08
+Fatehpur,08
+Lachhmangarh,08
+Sikar,08
+Danta Ramgarh,08
+Sri Madhopur,08
+Neem Ka Thana,08
+Ladnu,08
+Didwana,08
+Jayal,08
+Nagaur,08
+Kheenvsar,08
+Merta,08
+Degana,08
+Parbatsar,08
+Makrana,08
+Nawa,08
+Phalodi,08
+Osian,08
+Bhopalgarh,08
+Jodhpur,08
+Shergarh,08
+Luni,08
+Bilara,08
+Jaisalmer,08
+Pokaran,08
+Fatehgarh,08
+Sheo,08
+Baytoo,08
+Pachpadra,08
+Siwana,08
+Gudha Malani,08
+Barmer,08
+Ramsar,08
+Chohtan,08
+Sayla,08
+Ahore,08
+Jalor,08
+Bhinmal,08
+Bagora,08
+Sanchore,08
+Raniwara,08
+Sheoganj,08
+Sirohi,08
+Pindwara,08
+Abu Road,08
+Reodar,08
+Jaitaran,08
+Raipur,08
+Sojat,08
+Rohat,08
+Pali,08
+Marwar Junction,08
+Desuri,08
+Sumerpur,08
+Bali,08
+Kishangarh,08
+Ajmer,08
+Peesangan,08
+Beawar,08
+Masuda,08
+Nasirabad,08
+Bhinay,08
+Sarwar,08
+Kekri,08
+Malpura,08
+Peeplu,08
+Niwai,08
+Tonk,08
+Todaraisingh,08
+Deoli,08
+Uniara,08
+Hindoli,08
+Nainwa,08
+Indragarh,08
+Keshoraipatan,08
+Bundi,08
+Asind,08
+Hurda,08
+Shahpura,08
+Banera,08
+Mandal,08
+Raipur,08
+Sahara,08
+Bhilwara,08
+Kotri,08
+Jahazpur,08
+Mandalgarh,08
+Beejoliya,08
+Bhim,08
+Deogarh,08
+Amet,08
+Kumbhalgarh,08
+Rajsamand,08
+Railmagra,08
+Nathdwara,08
+Mavli,08
+Gogunda,08
+Kotra,08
+Jhadol,08
+Girwa,08
+Vallabhnagar,08
+Dhariawad,08
+Salumbar,08
+Sarada,08
+Kherwara,08
+Dungarpur,08
+Aspur,08
+Sagwara,08
+Simalwara,08
+Ghatol,08
+Garhi,08
+Banswara,08
+Bagidora,08
+Kushalgarh,08
+Rashmi,08
+Gangrar,08
+Begun,08
+Rawatbhata,08
+Chittaurgarh,08
+Kapasan,08
+Dungla,08
+Bhadesar,08
+Nimbahera,08
+Chhoti Sadri,08
+Bari Sadri,08
+Pratapgarh,08
+Arnod,08
+Pipalda,08
+Digod,08
+Ladpura,08
+Ramganj Mandi,08
+Sangod,08
+Mangrol,08
+Antah,08
+Baran,08
+Atru,08
+Kishanganj,08
+Shahbad,08
+Chhabra,08
+Chhipabarod,08
+Khanpur,08
+Jhalrapatan,08
+Aklera,08
+Manohar Thana,08
+Pachpahar,08
+Pirawa,08
+Gangdhar,08
+Behat,09
+Saharanpur,09
+Nakur,09
+Deoband,09
+Kairana,09
+Shamli **,09
+Muzaffarnagar,09
+Budhana,09
+Jansath,09
+Najibabad,09
+Bijnor,09
+Nagina,09
+Dhampur,09
+Chandpur,09
+Thakurdwara,09
+Moradabad,09
+Bilari,09
+Sambhal,09
+Chandausi,09
+Suar,09
+Bilaspur,09
+Rampur,09
+Shahabad ,09
+Milak ,09
+Dhanaura,09
+Amroha,09
+Hasanpur,09
+Sardhana,09
+Mawana,09
+Meerut,09
+Baraut **,09
+Baghpat,09
+Khekada **,09
+Modinagar,09
+Ghaziabad,09
+Hapur,09
+Garhmukteshwar,09
+Dadri,09
+Gautam Buddha Nagar **,09
+Jewar **,09
+Sikandrabad,09
+Bulandshahr,09
+Siana,09
+Anupshahr,09
+Debai **,09
+Shikarpur **,09
+Khurja ,09
+Khair,09
+Gabhana **,09
+Atrauli,09
+Koil ,09
+Iglas,09
+Sasni **,09
+Sikandra Rao ,09
+Hathras,09
+Sadabad,09
+Chhata,09
+Mat,09
+Mathura,09
+Etmadpur,09
+Agra,09
+Kiraoli,09
+Kheragarh,09
+Fatehabad,09
+Bah,09
+Tundla **,09
+Firozabad,09
+Jasrana ,09
+Shikohabad ,09
+Kasganj,09
+Patiyali,09
+Aliganj ,09
+Etah,09
+Jalesar ,09
+Mainpuri,09
+Karhal,09
+Bhogaon ,09
+Gunnaur ,09
+Bisauli ,09
+Bilsi **,09
+Sahaswan,09
+Budaun,09
+Dataganj,09
+Baheri,09
+Meerganj ,09
+Aonla ,09
+Bareilly ,09
+Nawabganj ,09
+Faridpur ,09
+Pilibhit ,09
+Bisalpur,09
+Puranpur,09
+Powayan,09
+Tilhar,09
+Shahjahanpur,09
+Jalalabad,09
+Nighasan,09
+Gola Gokaran Nath,09
+Mohammdi,09
+Lakhimpur,09
+Dhaurahara,09
+Misrikh,09
+Sitapur,09
+Laharpur ,09
+Biswan,09
+Mahmudabad,09
+Sidhauli,09
+Shahabad,09
+Sawayajpur **,09
+Hardoi ,09
+Bilgram,09
+Sandila ,09
+Safipur,09
+Hasanganj ,09
+Unnao,09
+Purwa ,09
+Bighapur **,09
+Malihabad,09
+Bakshi Ka Talab**,09
+Lucknow,09
+Mohanlalganj ,09
+Maharajganj,09
+Tiloi,09
+Rae Bareli ,09
+Lalganj ,09
+Dalmau ,09
+Unchahar **,09
+Salon,09
+Kaimganj,09
+Amritpur **,09
+Farrukhabad ,09
+Chhibramau,09
+Kannauj,09
+Tirwa **,09
+Jaswantnagar **,09
+Saifai **,09
+Etawah,09
+Bharthana,09
+Chakarnagar **,09
+Bidhuna,09
+Auraiya ,09
+Rasulabad ,09
+Derapur,09
+Akbarpur ,09
+Bhognipur,09
+Sikandra **,09
+Bilhaur ,09
+Kanpur ,09
+Ghatampur ,09
+Madhogarh ** ,09
+Jalaun,09
+Kalpi ,09
+Orai,09
+Konch,09
+Moth,09
+Garautha,09
+Tahrauli **,09
+Mauranipur,09
+Jhansi,09
+Talbehat,09
+Lalitpur ,09
+Mahroni,09
+Hamirpur,09
+Rath,09
+Maudaha,09
+Kulpahar,09
+Charkhari,09
+Mahoba ,09
+Banda,09
+Baberu,09
+Atarra ,09
+Naraini,09
+Karwi,09
+Mau,09
+Bindki,09
+Fatehpur,09
+Khaga ,09
+Lalganj Ajhara ,09
+Kunda,09
+Pratapgarh,09
+Patti,09
+Sirathu,09
+Manjhanpur ,09
+Chail,09
+Soraon,09
+Phulpur ,09
+Allahabad **,09
+Bara  ,09
+Karchhana ,09
+Handia,09
+Meja,09
+Koraon **,09
+Fatehpur,09
+Ramnagar ,09
+Nawabganj ,09
+Sirauli Gauspur**,09
+Ramsanehighat,09
+Haidergarh,09
+Rudauli,09
+Milkipur **,09
+Sohawal **,09
+Faizabad,09
+Bikapur,09
+Tanda,09
+Allapur **,09
+Jalalpur ,09
+Akbarpur,09
+Musafirkhana ,09
+Gauriganj,09
+Amethi ,09
+Sultanpur,09
+Lambhuwa **,09
+Kadipur ,09
+Nanpara ,09
+Mahasi **,09
+Bahraich,09
+Kaiserganj,09
+Bhinga,09
+Ikauna **,09
+Payagpur **,09
+Balrampur,09
+Tulsipur,09
+Utraula,09
+Gonda ,09
+Colonelganj ,09
+Tarabganj,09
+Mankapur ,09
+Shohratgarh **,09
+Naugarh,09
+Bansi,09
+Itwa,09
+Domariyaganj,09
+Bhanpur,09
+Harraiya,09
+Basti,09
+Mehdawal **,09
+Khalilabad,09
+Ghanghata **,09
+Nautanwa,09
+Nichlaul,09
+Pharenda,09
+Maharajganj,09
+Campierganj **,09
+Sahjanwa,09
+Gorakhpur,09
+Chauri Chaura,09
+Bansgaon,09
+Khajani,09
+Gola ,09
+Padrauna,09
+Hata,09
+Kasya **,09
+Tamkuhi Raj,09
+Deoria,09
+Rudrapur,09
+Barhaj **,09
+Salempur,09
+Bhatpar Rani **,09
+Burhanpur,09
+Sagri,09
+Azamgarh ,09
+Nizamabad **,09
+Phulpur ,09
+Lalganj,09
+Mehnagar **,09
+Ghosi,09
+Madhuban **,09
+Maunath Bhanjan,09
+Muhammadabad Gohna,09
+Belthara Road **,09
+Sikanderpur **,09
+Rasra,09
+Ballia,09
+Bansdih,09
+Bairia,09
+Shahganj,09
+Badlapur,09
+Machhlishahr,09
+Jaunpur ,09
+Mariahu ,09
+Kerakat,09
+Jakhanian **,09
+Saidpur,09
+Ghazipur,09
+Mohammadabad ,09
+Zamania,09
+Sakaldiha,09
+Chandauli,09
+Chakia,09
+Pindra **,09
+Varanasi,09
+Bhadohi,09
+Gyanpur,09
+Mirzapur,09
+Lalganj,09
+Marihan,09
+Chunar,09
+Ghorawal **,09
+Robertsganj,09
+Dudhi,09
+Sidhaw,10
+Ramnagar,10
+Gaunaha,10
+Mainatanr,10
+Narkatiaganj,10
+Lauria,10
+Bagaha,10
+Piprasi,10
+Madhubani,10
+Bhitaha,10
+Thakrahan,10
+Jogapatti,10
+Chanpatia,10
+Sikta,10
+Majhaulia,10
+Bettiah,10
+Bairia,10
+Nautan,10
+Raxaul,10
+Adapur,10
+Ramgarhwa,10
+Sugauli,10
+Banjaria,10
+Narkatia,10
+Bankatwa,10
+Ghorasahan,10
+Dhaka,10
+Chiraia,10
+Motihari,10
+Turkaulia,10
+Harsidhi,10
+Paharpur,10
+Areraj,10
+Sangrampur,10
+Kesaria,10
+Kalyanpur,10
+Kotwa,10
+Piprakothi,10
+Chakia(Pipra),10
+Pakri Dayal,10
+Patahi,10
+Phenhara,10
+Madhuban,10
+Tetaria,10
+Mehsi,10
+Purnahiya,10
+Piprarhi,10
+Sheohar,10
+Dumri Katsari,10
+Tariani Chowk,10
+Bairgania,10
+Suppi,10
+Majorganj,10
+Sonbarsa,10
+Parihar,10
+Sursand,10
+Bathnaha,10
+Riga,10
+Parsauni,10
+Belsand,10
+Runisaidpur,10
+Dumra,10
+Bajpatti,10
+Charaut,10
+Pupri,10
+Nanpur,10
+Bokhara,10
+Madhwapur,10
+Harlakhi,10
+Basopatti,10
+Jainagar,10
+Ladania,10
+Laukaha,10
+Laukahi,10
+Phulparas,10
+Babubarhi,10
+Khajauli,10
+Kaluahi,10
+Benipatti,10
+Bisfi,10
+Madhubani,10
+Pandaul,10
+Rajnagar,10
+Andhratharhi,10
+Jhanjharpur,10
+Ghoghardiha,10
+Lakhnaur,10
+Madhepur,10
+Nirmali,10
+Basantpur,10
+Chhatapur,10
+Pratapganj,10
+Raghopur,10
+Saraigarh Bhaptiyahi,10
+Kishanpur,10
+Marauna,10
+Supaul,10
+Pipra,10
+Tribeniganj,10
+Narpatganj,10
+Forbesganj,10
+Bhargama,10
+Raniganj,10
+Araria,10
+Kursakatta,10
+Sikti,10
+Palasi,10
+Jokihat,10
+Terhagachh,10
+Dighalbank,10
+Thakurganj,10
+Pothia,10
+Bahadurganj,10
+Kochadhamin,10
+Kishanganj,10
+Banmankhi,10
+Barhara,10
+Bhawanipur,10
+Rupauli,10
+Dhamdaha,10
+Krityanand Nagar,10
+Purnia East,10
+Kasba,10
+Srinagar,10
+Jalalgarh,10
+Amour,10
+Baisa,10
+Baisi,10
+Dagarua,10
+Falka,10
+Korha,10
+Hasanganj,10
+Kadwa,10
+Balrampur,10
+Barsoi,10
+Azamnagar,10
+Pranpur,10
+Dandkhora,10
+katihar,10
+Mansahi,10
+Barari,10
+Sameli,10
+Kursela,10
+Manihari,10
+Amdabad,10
+Gamharia,10
+Singheshwar,10
+Ghailarh,10
+Madhepura,10
+Shankarpur,10
+Kumarkhand,10
+Murliganj,10
+Gwalpara,10
+Bihariganj,10
+Kishanganj,10
+Puraini,10
+Alamnagar,10
+Chausa,10
+Nauhatta,10
+Satar Kataiya,10
+Mahishi,10
+Kahara,10
+Saur Bazar,10
+Patarghat,10
+Sonbarsa,10
+Simri Bakhtiarpur,10
+Salkhua,10
+Banma Itarhi,10
+Jale,10
+Singhwara,10
+Keotiranway,10
+Darbhanga,10
+Manigachhi,10
+Tardih,10
+Alinagar,10
+Benipur,10
+Bahadurpur,10
+Hanumannagar,10
+Hayaghat,10
+Baheri,10
+Biraul,10
+Ghanshyampur,10
+Kiratpur,10
+Gora Bauram,10
+Kusheshwar Asthan,10
+Kusheshwar Asthan Purbi,10
+Sahebganj,10
+Baruraj (Motipur),10
+Paroo,10
+Saraiya,10
+Marwan,10
+Kanti,10
+Minapur,10
+Bochaha,10
+Aurai,10
+Katra,10
+Gaighat,10
+Bandra,10
+Dholi (Moraul),10
+Musahari,10
+Kurhani,10
+Sakra,10
+Kataiya,10
+Bijaipur,10
+Bhorey,10
+Pachdeori,10
+Kuchaikote,10
+phulwaria,10
+Hathua,10
+Uchkagaon,10
+Thawe,10
+Gopalganj,10
+Manjha,10
+Barauli,10
+Sidhwalia,10
+Baikunthpur,10
+Nautan,10
+Siwan,10
+Barharia,10
+Goriakothi,10
+Lakri Nabiganj,10
+Basantpur,10
+Bhagwanpur Hat,10
+Maharajganj,10
+Pachrukhi,10
+Hussainganj,10
+Ziradei,10
+Mairwa,10
+Guthani,10
+Darauli,10
+Andar,10
+Raghunathpur,10
+Hasanpura,10
+Daraundha,10
+Siswan,10
+Mashrakh,10
+Panapur,10
+Taraiya,10
+Ishupur,10
+Baniapur,10
+Lahladpur,10
+Ekma,10
+Manjhi,10
+Jalalpur,10
+Revelganj,10
+Chapra,10
+Nagra,10
+Marhaura,10
+Amnour,10
+Maker,10
+Parsa,10
+Dariapur,10
+Garkha,10
+Dighwara,10
+Sonepur,10
+Vaishali,10
+Paterhi Belsar,10
+Lalganj,10
+Bhagwanpur,10
+Goraul,10
+Chehra Kalan,10
+Patepur,10
+Mahua,10
+Jandaha,10
+Raja Pakar,10
+Hajipur,10
+Raghopur,10
+Bidupur,10
+Desri,10
+Sahdai Buzurg,10
+Mahnar,10
+Kalyanpur,10
+Warisnagar,10
+Shivaji Nagar,10
+Khanpur,10
+Samastipur,10
+Pusa,10
+Tajpur,10
+Morwa,10
+Patori,10
+Mohanpur,10
+Mohiuddinagar,10
+Sarairanjan,10
+Vidyapati Nagar,10
+Dalsinghsarai,10
+Ujiarpur,10
+Bibhutpur,10
+Rosera,10
+Singhia,10
+Hasanpur,10
+Bithan,10
+Khudabandpur,10
+Chorahi,10
+Garhpura,10
+Cheria Bariarpur,10
+Bhagwanpur,10
+Mansurchak,10
+Bachhwara,10
+Teghra,10
+Barauni,10
+Birpur,10
+Begusarai,10
+Naokothi,10
+Bakhri,10
+Dandari,10
+Sahebpur Kamal,10
+Balia,10
+Matihani,10
+Shamho Akha Kurha,10
+Alauli,10
+Khagaria,10
+Mansi,10
+Chautham,10
+Beldaur,10
+Gogari,10
+Parbatta,10
+Narayanpur,10
+Bihpur,10
+Kharik,10
+Naugachhia,10
+Rangra Chowk,10
+Gopalpur,10
+Pirpainti,10
+Colgong,10
+Ismailpur,10
+Sabour,10
+Nathnagar,10
+Sultanganj,10
+Shahkund,10
+Goradih,10
+Jagdishpur,10
+Sonhaula,10
+Shambhuganj,10
+Amarpur,10
+Rajaun,10
+Dhuraiya,10
+Barahat,10
+Banka,10
+Phulidumar,10
+Belhar,10
+Chanan,10
+Katoria,10
+Bausi,10
+Munger,10
+Bariyarpur,10
+Jamalpur,10
+Dharhara,10
+Kharagpur,10
+Asarganj,10
+Tarapur,10
+Tetiha Bambor,10
+Sangrampur,10
+Barahiya,10
+Pipariya,10
+Surajgarha,10
+Lakhisarai,10
+Ramgarh Chowk,10
+Halsi,10
+Barbigha,10
+Shekhopur Sarai,10
+Sheikhpura,10
+Ghat Kusmha,10
+Chewara,10
+Ariari,10
+Karai Parsurai,10
+Nagar Nausa,10
+Harnaut,10
+Chandi,10
+Rahui,10
+Bind,10
+Sarmera,10
+Asthawan ,10
+Bihar,10
+Noorsarai,10
+Tharthari ,10
+Parbalpur,10
+Hilsa,10
+Ekangarsarai,10
+Islampur,10
+Ben,10
+Rajgir,10
+Silao,10
+Giriak,10
+Katrisarai,10
+Maner,10
+Dinapur-Cum-Khagaul,10
+Patna Rural (a) Patna Rural (b),10
+Sampatchak,10
+Phulwari,10
+Bihta,10
+Naubatpur,10
+Bikram,10
+Dulhin Bazar,10
+Paliganj,10
+Masaurhi ,10
+Dhanarua,10
+Punpun,10
+Fatwah,10
+Daniawan ,10
+Khusrupur,10
+Bakhtiarpur,10
+Athmalgola,10
+Belchhi,10
+Barh,10
+Pandarak,10
+Ghoswari,10
+Mokameh,10
+Shahpur,10
+Arrah,10
+Barhara,10
+Koilwar,10
+Sandesh,10
+Udwant Nagar,10
+Behea,10
+Jagdishpur,10
+Piro,10
+Charpokhri,10
+Garhani,10
+Agiaon,10
+Tarari,10
+Sahar,10
+Simri,10
+Chakki,10
+Barhampur,10
+Chaugain,10
+Kesath ,10
+Dumraon ,10
+Buxar,10
+Chausa,10
+Rajpur,10
+Itarhi,10
+Nawanagar,10
+Ramgarh,10
+Noawan,10
+Kudra,10
+Mohania,10
+Durgawati,10
+Chand,10
+Chainpur,10
+Bhabua,10
+Rampur,10
+Bhagwanpur,10
+Adhaura,10
+Kochas,10
+Dinara,10
+Dawath,10
+Suryapura,10
+Bikramganj,10
+Karakat,10
+Nasriganj,10
+Rajpur,10
+Sanjhauli,10
+Nokha,10
+Kargahar,10
+Chenari,10
+Nauhatta,10
+Sheosagar,10
+Sasaram,10
+Akorhi Gola,10
+Dehri,10
+Tilouthu,10
+Rohtas,10
+Arwal,10
+Kaler,10
+Karpi,10
+Sonbhadra Banshi,10
+Suryapur Kurtha,10
+Ratni Faridpur,10
+Jehanabad,10
+Kako,10
+Modanganj,10
+Ghoshi,10
+Makhdumpur,10
+Hulasganj,10
+Daudnagar,10
+Haspura,10
+Goh,10
+Rafiganj,10
+Obra,10
+Aurangabad,10
+Barun,10
+Nabinagar,10
+Kutumba,10
+Deo,10
+Madanpur,10
+Konch,10
+Tikari ,10
+Belaganj,10
+Khizirsarai,10
+Neem Chak Bathani,10
+Muhra,10
+Atri,10
+Manpur,10
+Gaya,10
+Paraiya,10
+Guraru,10
+Gurua,10
+Amas,10
+Banke Bazar,10
+Imamganj,10
+Dumaria,10
+Sherghati,10
+Dobhi,10
+Bodh Gaya,10
+Tan Kuppa,10
+Wazirganj,10
+Fatehpur,10
+Mohanpur,10
+Barachatti,10
+Nardiganj,10
+Nawada,10
+Warisaliganj,10
+Kashi Chak,10
+Pakribarawan,10
+Kawakol,10
+Roh,10
+Govindpur,10
+Akbarpur,10
+Hisua,10
+Narhat,10
+Meskaur,10
+Sirdala,10
+Rajauli,10
+Islamnagar Aliganj,10
+Sikandra,10
+Jamui,10
+Barhat,10
+Lakshmipur,10
+Jhajha,10
+Gidhaur,10
+Khaira,10
+Sono,10
+Chakai,10
+Chungthang,11
+Mangan,11
+Gyalshing,11
+Soreng,11
+Namchi,11
+Ravong,11
+Gangtok,11
+Pakyong,11
+Rongli,11
+Zemithang Circle,12
+Lumla Circle,12
+Dudunghar Circle,12
+Tawang Circle,12
+Jang Circle,12
+Mukto Circle,12
+Thingbu Circle,12
+Dirang Circle,12
+Nafra Circle,12
+Bomdila Circle,12
+Kalaktang Circle,12
+Rupa Circle,12
+Singchung Circle,12
+Jamiri Circle,12
+Thrizino Circle,12
+Bhalukpong Circle,12
+Balemu Circle,12
+Seijosa Circle,12
+Pakke Kessang Circle,12
+Richukrong Circle,12
+Seppa Circle,12
+Lada Circle,12
+Bameng Circle,12
+Pipu Circle,12
+Khenewa Circle,12
+Chayangtajo Circle,12
+Sawa Circle,12
+Balijan Circle,12
+Itanagar Circle,12
+Naharlagun Circle,12
+Doimukh Circle,12
+Toru Circle,12
+Sagalee Circle,12
+Leporiang Circle,12
+Mengio Circle,12
+Kimin Circle,12
+Ziro Circle,12
+Yachuli Circle,12
+Pistana Circle,12
+Palin Circle,12
+Yangte Circle,12
+Sangram Circle,12
+Nyapin Circle,12
+Koloriang Circle,12
+Chambang Circle,12
+Sarli Circle,12
+Parsi-Parlo Circle,12
+Damin Circle,12
+Longding Koling Circle,12
+Tali Circle,12
+Kamporijo Circle,12
+Dollungmukh Circle,12
+Raga Circle,12
+Taksing Circle,12
+Limeking Circle,12
+Nacho Circle,12
+Siyum Circle,12
+Taliha Circle,12
+Payeng Circle,12
+Giba Circle,12
+Daporijo Circle,12
+Puchi Geko Circle,12
+Dumporijo Circle,12
+Baririjo Circle,12
+Mechuka Circle,12
+Monigong Circle,12
+Pidi Circle,12
+Payum Circle,12
+Tato Circle,12
+Kaying Circle,12
+Darak Circle,12
+Kamba Circle,12
+Rumgong Circle,12
+Jomlo Mobuk Circle,12
+Liromoba Circle,12
+Yomcha Circle,12
+Along Circle,12
+Tirbin Circle,12
+Basar Circle,12
+Daring Circle,12
+Gensi Circle,12
+Likabali Circle,12
+Kangku Circle,12
+Bagra Circle,12
+Boleng Circle,12
+Riga Circle,12
+Pangin Circle,12
+Rebo-Perging Circle,12
+Koyu Circle,12
+Nari Circle,12
+New Seren Circle,12
+Bilat Circle,12
+Ruksin Circle,12
+Sille-Oyan Circle,12
+Pasighat Circle,12
+Mebo Circle,12
+Tuting Circle,12
+Migging Circle,12
+Palling Circle,12
+Gelling Circle,12
+Singa Circle,12
+Yingwong Circle,12
+Jengging Circle,12
+Geku Circle,12
+Mariyang Circle,12
+Katan Circle ,12
+Mipi Circle,12
+Anini Circle ,12
+Etalin Circle,12
+Anelih Circle,12
+Koronli Circle,12
+Hunli Circle,12
+Desali Circle,12
+Roing Circle,12
+Dambuk Circle,12
+Koronu Circle,12
+Sunpura Circle,12
+Tezu Circle,12
+Hayuliang Circle,12
+Manchal Circle,12
+Goiliang Circle,12
+Chaglagam Circle,12
+Kibithoo Circle,12
+Walong Circle,12
+Hawai Circle,12
+Wakro Circle,12
+Chowkham Circle,12
+Namsai Circle,12
+Piyong Circle,12
+Mahadevpur Circle,12
+Khimiyong Circle,12
+Changlang Circle,12
+Namtok Circle,12
+Manmao Circle,12
+Nampong Circle,12
+Jairampur Circle,12
+Vijoynagar Circle,12
+Miao Circle,12
+Kharsang Circle,12
+Diyun Circle,12
+Bordumsa Circle,12
+Namsang Circle,12
+Khonsa Circle,12
+Kanubari Circle,12
+Longding Circle,12
+Pumao Circle,12
+Pangchao Circle,12
+Wakka Circle,12
+Laju Circle,12
+Naginimora,13
+Tizit,13
+Hunta,13
+Shangyu,13
+Mon Sadar,13
+Wakching,13
+Aboi,13
+Longshen,13
+Phomching,13
+Chen,13
+Longching,13
+Mopong,13
+Tobu,13
+Monyakshu,13
+Tamlu,13
+Yongya,13
+Longleng,13
+Noksen,13
+Chare,13
+Longkhim,13
+Tuensang Sadar,13
+Noklak,13
+Panso,13
+Shamator,13
+Tsurungtho,13
+Chessore,13
+Seyochung,13
+Amahator,13
+Kiphire Sadar,13
+Thonoknyu,13
+Kiusam,13
+Sitimi,13
+Longmatra,13
+Pungro,13
+Longchem,13
+Alongkima,13
+Tuli,13
+Changtongya,13
+Chuchuyimlang,13
+Kubolong,13
+Mangkolemba,13
+Ongpangkong,13
+V.K.,13
+Akuluto,13
+Suruhoto,13
+Asuto,13
+Aghunato,13
+Zunheboto Sadar,13
+Atoizu,13
+Pughoboto,13
+Ghatashi,13
+Satakha,13
+Satoi,13
+Changpang,13
+Aitepyong,13
+Bhandari,13
+Baghty,13
+Sungro,13
+Sanis,13
+Lotsu,13
+Ralan,13
+Wozhuro,13
+Wokha Sadar,13
+Chukitong,13
+Niuland,13
+Kuhoboto,13
+Nihokhu,13
+Dimapur Sadar,13
+Chumukedima,13
+Dhansiripar,13
+Medziphema,13
+Tseminyu,13
+Chiephobozou,13
+Kezocha,13
+Jakhama,13
+Kohima Sadar,13
+Sechu,13
+Ngwalwa,13
+Jalukie,13
+Athibung,13
+Nsong,13
+Tening,13
+Peren,13
+Sekruzu,13
+Phek Sadar,13
+Meluri,13
+Phokhungri,13
+Chazouba,13
+Chetheba,13
+Sakraba,13
+Pfutsero,13
+Khezhakeno,13
+Chizami,13
+Mao-Maram Sub-Division,14
+Paomata Sub-Division,14
+Purul Sub-Division,14
+Sadar Hills West Sub-Division,14
+Saitu Gamphazol Sub-Division ,14
+Sadar Hills East Sub-Division,14
+Tamenglong West Sub-Division,14
+Tamenglong North Sub-Division,14
+Tamenglong Sub-Division ,14
+Nungba Sub-Division,14
+Tipaimukh Sub-Division,14
+Thanlon Sub-Division,14
+Churachandpur North Sub-Div.,14
+Churachandpur  Sub-Division,14
+Singngat Sub-Division ,14
+Nambol Sub-Division,14
+Bishnupur Sub-Division,14
+Moirang Sub-Division ,14
+Lilong Sub-Division,14
+Thoubal Sub-Division,14
+Kakching Sub-Div.,14
+Lamshang Sub-Division ,14
+Patsoi Sub-Division,14
+Lamphelpat Sub-Division,14
+Wangoi Sub-Division,14
+Jiribam  Sub-Division,14
+Sawombung Sub-Division,14
+Porompat Sub-Division,14
+Keirao Bitra Sub-Division,14
+Ukhrul North  Sub-Division,14
+Ukhrul Central Sub-Division,14
+Kamjong Chassad Sub-Div.,14
+Phungyar Phaisat Sub-Division,14
+Ukhrul South Sub-Division,14
+Machi  Sub-Division,14
+Tengnoupal Sub-Division,14
+Chandel Sub-Div.,14
+Chakpikarong Sub-Division,14
+Zawlnuam,15
+West Phaileng,15
+Reiek,15
+North Thingdawl,15
+Darlawn,15
+Phullen,15
+Thingsulthliah,15
+Tlangnuam,15
+Aibawk,15
+Ngopa,15
+Khawzawl,15
+Khawbung,15
+Serchhip,15
+East Lungdar,15
+West Bunghmun,15
+Lungsen,15
+Lunglei,15
+Hnahthial,15
+Chawngte,15
+Lawngtlai,15
+Sangau,15
+Tuipang,15
+Mohanpur,16
+Hezamara,16
+Pabmabil,16
+Khowai,16
+Tulashikhar,16
+Kalyanpur,16
+Teliamura,16
+Mandai,16
+Jirania,16
+Dukli,16
+Jampuijala,16
+Bishalgarh,16
+Boxanagar,16
+Melaghar,16
+Kathalia,16
+Killa,16
+Amarpur,16
+Matarbari,16
+Kakraban,16
+Rajnagar,16
+Hrishyamukh,16
+Bagafa,16
+Karbuk,16
+Rupaichhari,16
+Satchand,16
+Salema,16
+Manu,16
+Ambassa,16
+Chhamanu,16
+Dumburnagar,16
+Gournagar,16
+Kadamtala,16
+Panisagar,16
+Damchhara,16
+Pencharthal,16
+Kumarghat,16
+Dasda,16
+Jampuii hills,16
+Selsella,17
+Dadenggiri,17
+Tikrikilla,17
+Rongram,17
+Betasing,17
+Zikzak,17
+Dalu,17
+Resubelpara,17
+Dambo Rongjeng,17
+Songsak,17
+Samanda,17
+Chokpot,17
+Baghmara,17
+Rongara,17
+Mawshynrut,17
+Nongstoin,17
+Mairang,17
+Ranikor,17
+Mawkyrwat,17
+Umling,17
+Umsning,17
+Mawphlang,17
+Mylliem,17
+Mawryngkneng,17
+Mawkynrew,17
+Mawsynram,17
+Shella Bholaganj,17
+Pynursla,17
+Thadlaskein,17
+Laskein,17
+Amlarem,17
+Khliehriat,17
+Gossaigaon,18
+Bhowraguri,18
+Dotoma,18
+Kokrajhar,18
+Sidli (PT-I),18
+Agamoni,18
+Golokganj,18
+Dhubri,18
+BagribariI,18
+Bilasipara,18
+Chapar,18
+South Salmara,18
+Mankachar,18
+Lakhipur,18
+Balijana,18
+Matia,18
+Dudhnai,18
+Rangjuli,18
+Sidli (PT-II),18
+Bongaigaon,18
+Boitamari,18
+Srijangram,18
+Bijni,18
+Barnagar,18
+Kalgachia,18
+Baghbor,18
+Barpeta,18
+Sarthebari,18
+Bajali,18
+Sarupeta,18
+Jalah,18
+Goreswar,18
+Rangia,18
+Kamalpur ,18
+Kamalpur ,18
+Hajo,18
+Chhaygaon,18
+Chamaria,18
+Nagarbera,18
+Boko,18
+Palasbari,18
+Guwahati,18
+North Guwahati,18
+Dispur,18
+Sonapur,18
+Chandrapur,18
+Baska,18
+Barama,18
+Tihu,18
+Pachim Nalbari,18
+Barkhetri,18
+Barbhag,18
+Nalbari,18
+Ghograpar,18
+Tamulpur,18
+Harisinga,18
+Khoirabari,18
+Pathorighat,18
+Sipajhar,18
+Mangaldoi,18
+Kalajgaon,18
+Dalgaon,18
+Dalgaon ,18
+Udalguri,18
+Majbat,18
+Mayong,18
+Bhuragaon,18
+Laharighat,18
+Marigaon,18
+Mikirbheta,18
+Koliabor,18
+Samaguri ,18
+Samaguri,18
+Rupahi ,18
+Rupahi ,18
+Dhing,18
+Nagaon,18
+Raha,18
+Kampur,18
+Hojai,18
+Lanka,18
+Dhekiajuli,18
+Chariduar,18
+Tezpur,18
+Na-Duar,18
+Biswanath,18
+Helem,18
+Gohpur,18
+Narayanpur,18
+Bihpuraia,18
+Naobaicha,18
+Kadam,18
+North Lakhimpur,18
+Dhakuakhana (PT-I),18
+Subansiri (PT-I),18
+Subansiri (PT-II),18
+Dhemaji,18
+Dhakuakhana (PT-II),18
+Sissibargaon,18
+ Jonai ,18
+Sadiya,18
+Doom Dooma,18
+Tinsukia,18
+Margherita,18
+Dibrugarh West,18
+Dibrugarh East,18
+Chabua,18
+Tengakhat,18
+Moran,18
+Tingkhong,18
+Naharkathiya,18
+Dimow,18
+Sibsagar,18
+Amguri ,18
+Amguri ,18
+Nazira ,18
+Nazira ,18
+Sonari ,18
+Sonari ,18
+Mahmora,18
+Majuli,18
+Jorhat West,18
+Jorhat East,18
+Teok,18
+Titabar,18
+Bokakhat,18
+Khumtai,18
+Dergaon,18
+Golaghat,18
+Sarupathar,18
+Donka,18
+Diphu ,18
+Diphu ,18
+Phuloni ,18
+Phuloni ,18
+Silonijan,18
+Umrangso,18
+Haflong,18
+Mahur,18
+Maibong,18
+Katigora,18
+Silchar,18
+Udarbond,18
+Sonai ,18
+Sonai ,18
+Lakhipur,18
+Karimganj,18
+Badarpur,18
+Nilambazar,18
+Patharkandi,18
+Ramkrishna Nagar,18
+Algapur,18
+Hailakandi,18
+Lala,18
+Katlichara,18
+Darjeeling Pulbazar,19
+Rangli Rangliot,19
+Kalimpong -I,19
+Kalimpong - II,19
+Gorubathan,19
+Jorebunglow Sukiapokhri,19
+Mirik,19
+Kurseong,19
+Matigara ,19
+Naxalbari,19
+Phansidewa,19
+Kharibari,19
+Rajganj,19
+Mal,19
+Matiali,19
+Nagrakata,19
+Madarihat,19
+Kalchini,19
+Kumargram,19
+Alipurduar - I,19
+Alipurduar - II,19
+Falakata,19
+Dhupguri,19
+Maynaguri,19
+Jalpaiguri,19
+Haldibari,19
+Mekliganj,19
+Mathabhanga - I,19
+Mathabhanga - II,19
+Cooch Behar - I,19
+Cooch Behar - II,19
+Tufanganj - I,19
+Tufanganj - II,19
+Dinhata - I,19
+Dinhata - II,19
+Sitai,19
+Sitalkuchi,19
+Chopra,19
+Islampur,19
+Goalpokhar - I,19
+Goalpokhar - II,19
+Karandighi,19
+Raiganj,19
+Hemtabad,19
+Kaliaganj,19
+Itahar,19
+Kushmundi,19
+Gangarampur,19
+Kumarganj,19
+Hilli,19
+Balurghat,19
+Tapan,19
+Bansihari,19
+Harirampur,19
+Harishchandrapur - I,19
+Harishchandrapur - II,19
+Chanchal - I,19
+Chanchal - II,19
+Ratua - I,19
+Ratua - II,19
+Gazole,19
+Bamangola,19
+Habibpur,19
+Maldah (old),19
+English Bazar,19
+Manikchak,19
+Kaliachak - I,19
+Kaliachak - II,19
+Kaliachak - III,19
+Farakka,19
+Samserganj,19
+Suti - I,19
+Suti - II,19
+Raghunathganj - I,19
+Raghunathganj - II,19
+Lalgola,19
+Sagardighi,19
+Bhagawangola - I,19
+Bhagawangola - II,19
+Raninagar - II,19
+Jalangi,19
+Domkal,19
+Raninagar - I,19
+Murshidabad Jiaganj,19
+Nabagram,19
+Khargram,19
+Kandi,19
+Berhampore,19
+Hariharpara,19
+Nawda,19
+Beldanga - I,19
+Beldanga - II,19
+Bharatpur - II,19
+Bharatpur - I,19
+Burwan,19
+Murarai - I,19
+Murarai - II,19
+Nalhati - I,19
+Nalhati - II,19
+Rampurhat - I,19
+Rampurhat - II,19
+Mayureswar - I,19
+Mayureswar - II,19
+Mohammad Bazar,19
+Rajnagar,19
+Suri - I,19
+Suri - II,19
+Sainthia,19
+Labpur,19
+Nanoor,19
+Bolpur Sriniketan,19
+Illambazar,19
+Dubrajpur,19
+Khoyrasol,19
+Salanpur,19
+Barabani,19
+Jamuria,19
+Raniganj,19
+Ondal,19
+Pandabeswar,19
+Faridpur Durgapur,19
+Kanksa,19
+Ausgram - II,19
+Ausgram - I,19
+Mangolkote,19
+Ketugram - I,19
+Ketugram - II,19
+Katwa - I,19
+Katwa - II,19
+Purbasthali - I,19
+Purbasthali - II,19
+Manteswar,19
+Bhatar,19
+Galsi - I,19
+Galsi - II,19
+Burdwan - I,19
+Burdwan - II,19
+Memari - I,19
+Memari - II,19
+Kalna - I,19
+Kalna - II,19
+Jamalpur,19
+Raina - I,19
+Khandaghosh,19
+Raina - II,19
+Karimpur - I,19
+Karimpur - II,19
+Tehatta - I,19
+Tehatta - II,19
+Kaliganj,19
+Nakashipara,19
+Chapra,19
+Krishnagar - II,19
+ Nabadwip,19
+Krishnagar - I,19
+Krishnaganj,19
+Hanskhali,19
+Santipur,19
+Ranaghat - I,19
+Ranaghat - II,19
+Chakdah,19
+Haringhata,19
+Bagda,19
+Bongaon,19
+Gaighata,19
+Swarupnagar,19
+Habra - I,19
+Habra - II,19
+Amdanga,19
+Barrackpur - I,19
+Barrackpur - II,19
+Barasat - I,19
+Barasat - II,19
+Deganga,19
+Baduria,19
+Basirhat - I,19
+Basirhat - II,19
+Haroa,19
+Rajarhat,19
+Minakhan,19
+Sandeskhali - I,19
+Sandeskhali - II,19
+Hasnabad,19
+Hingalganj,19
+Goghat - I,19
+Goghat - II,19
+Arambag,19
+Pursura,19
+Tarakeswar,19
+Dhaniakhali,19
+Pandua,19
+Balagarh,19
+Chinsurah - Magra,19
+Polba - Dadpur,19
+Haripal,19
+Singur,19
+Serampur Uttarpara,19
+Chanditala - I,19
+Chanditala - II,19
+Jangipara,19
+Khanakul - I,19
+Khanakul - II,19
+Saltora,19
+Mejhia,19
+Gangajalghati,19
+Chhatna,19
+Indpur,19
+Bankura - I,19
+Bankura - II,19
+Barjora,19
+Sonamukhi,19
+Patrasayer,19
+Indus,19
+Kotulpur,19
+Jaypur,19
+Vishnupur,19
+Onda,19
+Taldangra,19
+Simlapal,19
+Khatra,19
+Hirbandh,19
+Ranibundh,19
+Raipur,19
+Sarenga,19
+Jaipur,19
+Purulia - II,19
+Para,19
+Raghunathpur - II,19
+Raghunathpur - I,19
+Neturia,19
+Santuri,19
+Kashipur,19
+Hura,19
+Purulia - I,19
+Puncha,19
+Arsha,19
+Jhalda - I,19
+Jhalda - II,19
+Bagmundi,19
+Balarampur,19
+Barabazar,19
+Manbazar - I,19
+Manbazar - II,19
+Bundwan,19
+Binpur - II,19
+Binpur - I,19
+Garbeta - II,19
+Garbeta - I,19
+Garbeta - III,19
+Chandrakona - I,19
+Chandrakona - II,19
+Ghatal,19
+Daspur - I,19
+Daspur - II,19
+Keshpur,19
+Salbani,19
+Midnapore,19
+Jhargram,19
+Jamboni,19
+Gopiballavpur - II,19
+Gopiballavpur - I,19
+Nayagram,19
+Sankrail,19
+Kharagpur - I,19
+Kharagpur - II,19
+Debra,19
+Panskura - I,19
+Panskura - II,19
+Tamluk,19
+Sahid Matangini,19
+Nanda Kumar,19
+Mahisadal,19
+Moyna,19
+Pingla,19
+Sabang,19
+Narayangarh,19
+Keshiary,19
+Dantan - I,19
+Dantan - II,19
+Potashpur - I,19
+Potashpur - II,19
+Bhagawanpur - II,19
+Bhagawanpur - I,19
+Nandigram - III,19
+Sutahata - I,19
+Sutahata - II,19
+Nandigram - I,19
+Nandigram - II,19
+Khejuri - I,19
+Khejuri - II,19
+Contai - I,19
+Contai - II,19
+Contai - III,19
+Egra - I,19
+Egra - II,19
+Mohanpur,19
+Ramnagar - I,19
+Ramnagar - II,19
+Udaynarayanpur,19
+Amta - II,19
+Amta - I,19
+Jagatballavpur,19
+Domjur,19
+Bally Jagachha,19
+Sankrail,19
+Panchla,19
+Uluberia - II,19
+Uluberia - I,19
+Bagnan - I,19
+Bagnan - II,19
+Shyampur - I,19
+Shyampur - II,19
+Thakurpukur Mahestola,19
+Budge Budge - I,19
+Budge Budge - II,19
+Bishnupur - I,19
+Bishnupur - II,19
+Sonarpur,19
+Bhangar - I,19
+Bhangar - II,19
+Canning - I,19
+Canning - II,19
+Baruipur,19
+Magrahat - II,19
+Magrahat - I,19
+Falta,19
+Diamond Harbour - I,19
+Diamond Harbour - II,19
+Kulpi,19
+Mandirbazar,19
+Mathurapur - I,19
+Jaynagar - I,19
+Jaynagar - II,19
+Kultali,19
+Basanti,19
+Gosaba,19
+Mathurapur - II,19
+Kakdwip,19
+Sagar,19
+Namkhana,19
+Patharpratima,19
+Kharaundhi,20
+Bhawnathpur,20
+Kandi,20
+Majhiaon,20
+Ramna,20
+Nagaruntari,20
+Dhurki,20
+Dandai,20
+Chinia,20
+Meral (Pipra Kalan),20
+Garhwa,20
+Ranka,20
+Ramkanda,20
+Bhandaria,20
+Hussainabad,20
+Hariharganj,20
+Chhatarpur,20
+Pandu,20
+Bishrampur,20
+Patan,20
+Manatu,20
+Panki,20
+Manika,20
+Satbarwa,20
+Leslieganj,20
+Daltonganj,20
+Chainpur,20
+Barwadih,20
+Mahuadanr,20
+Garu,20
+Latehar,20
+Balumath,20
+Chandwa,20
+Hunterganj,20
+Pratappur,20
+Kunda,20
+Lawalaung,20
+Chatra,20
+Itkhori,20
+Gidhaur,20
+Pathalgora,20
+Simaria,20
+Tandwa,20
+Chauparan,20
+Barhi,20
+Padma,20
+Ichak,20
+Barkatha,20
+Bishungarh,20
+Hazaribag,20
+Katkamsandi,20
+Keredari,20
+Barkagaon,20
+Patratu,20
+Churchu,20
+Mandu,20
+Ramgarh,20
+Gola,20
+Satgawan,20
+Kodarma,20
+Jainagar,20
+Markacho,20
+Gawan,20
+Tisri,20
+Deori,20
+Dhanwar,20
+Jamua,20
+Bengabad,20
+Gande,20
+Giridih,20
+Birni,20
+Bagodar,20
+Dumri,20
+Pirtanr,20
+Deoghar,20
+Mohanpur,20
+Sarwan,20
+Devipur,20
+Madhupur,20
+Karon,20
+Sarath,20
+Palojori,20
+Meherma,20
+Thakur Gangti,20
+Boarijor,20
+Mahagama,20
+Pathargama,20
+Godda,20
+Poreyahat,20
+Sundar Pahari,20
+Sahibganj,20
+Mandro,20
+Borio,20
+Barhait,20
+Taljhari,20
+Rajmahal,20
+Udhwa,20
+Pathna,20
+Barharwa,20
+Litipara,20
+Amrapara,20
+Hiranpur,20
+Pakaur,20
+Maheshpur,20
+Pakuria,20
+Saraiyahat,20
+Jarmundi,20
+Ramgarh,20
+Gopikandar,20
+Kathikund,20
+Shikaripara,20
+Ranishwar,20
+Dumka,20
+Jama,20
+Masalia,20
+Narayanpur,20
+Jamtara,20
+Nala,20
+Kundhit,20
+Tundi,20
+Topchanchi,20
+Baghmara-Cum-Katras,20
+Gobindpur,20
+Dhanbad-Cum-Ken-duadih-Cum-Jagta,20
+Jharia-Cum-Jorap-okhar-Cum-Sindri,20
+Baliapur,20
+Nirsa-Cum-Chirkunda,20
+Nawadih,20
+Bermo,20
+Gumia,20
+Peterwar,20
+Kasmar,20
+Jaridih,20
+Chas,20
+Chandankiyari,20
+Burmu,20
+Kanke,20
+Ormanjhi,20
+Angara,20
+Silli,20
+Sonahatu,20
+Namkum,20
+Ratu,20
+Mandar,20
+Chanho,20
+Bero,20
+Lapung,20
+Karra,20
+Torpa,20
+Rania,20
+Murhu,20
+Khunti,20
+Bundu,20
+Erki (Tamar II),20
+Tamar I,20
+Kisko,20
+Kuru,20
+Lohardaga,20
+Senha,20
+Bhandra,20
+Bishunpur,20
+Ghaghra,20
+Sisai,20
+Verno,20
+Kamdara,20
+Basia,20
+Gumla,20
+Chainpur,20
+Dumri,20
+Raidih,20
+Palkot,20
+simdega,20
+Kurdeg,20
+Bolba,20
+Thethaitangar,20
+Kolebira,20
+Jaldega,20
+Bano,20
+Sonua,20
+Bandgaon,20
+Chakradharpur,20
+Kuchai,20
+Kharsawan,20
+Chandil,20
+Ichagarh,20
+Nimdih,20
+Adityapur,20
+Seraikela,20
+Gobindpur,20
+Khuntpani,20
+Goilkera,20
+Manoharpur,20
+Noamundi,20
+Tonto,20
+Chaibasa,20
+Tantnagar,20
+Manjhari,20
+Jhinkpani,20
+Jagannathpur,20
+Kumardungi,20
+Majhgaon,20
+Patamda,20
+Golmuri-Cum-Jugsalai,20
+Ghatshila,20
+Potka,20
+Musabani,20
+Dumaria,20
+Dhalbhumgarh,20
+Chakulia,20
+Baharagora,20
+Paikamal,21
+Jharabandha,21
+Jharabandha,21
+Padmapur,21
+Burden,21
+Gaisilet,21
+Melchhamunda,21
+Sohela,21
+Bijepur,21
+Barapali,21
+Bheden,21
+Bargarh,21
+Bhatli,21
+Ambabhona,21
+Attabira,21
+Rengali,21
+Lakhanpur,21
+Belpahar,21
+Banaharapali,21
+Orient,21
+Brajarajnagar,21
+Jharsuguda,21
+Laikera,21
+Kolabira,21
+Govindpur,21
+Mahulpalli,21
+Kochinda,21
+Jamankira,21
+Kisinda,21
+Naktideul,21
+Rairakhol,21
+Charamal,21
+Jujomura,21
+Dhama,21
+Burla,21
+Hirakud,21
+Ainthapali,21
+Dhanupali,21
+Sadar,21
+Sasan,21
+Katarbaga,21
+Debagarh,21
+Barkot,21
+Kundheigola,21
+Reamal,21
+Hemgir,21
+Lephripara,21
+Bhasma,21
+Bhasma,21
+Sundargarh Town,21
+Sundargarh    ,21
+Kinjirkela,21
+Kinjirkela ,21
+Kinjirkela ,21
+Talasara,21
+Talasara,21
+Baragaon,21
+Kutra,21
+Rajagangapur,21
+Rajagangapur,21
+Raiboga,21
+Biramitrapur,21
+Biramitrapur,21
+Hatibari,21
+Bisra,21
+Bisra,21
+Bondamunda,21
+Bondamunda,21
+Brahmani Tarang,21
+Raghunathapali,21
+Tangarapali,21
+Lathikata,21
+Banki,21
+Kamarposh Balang,21
+Koida,21
+Lahunipara,21
+Gurundia,21
+Tikaetpali,21
+Banei,21
+Mahulpada,21
+Telkoi,21
+Kanjipani,21
+Nayakote,21
+Barbil,21
+Joda,21
+Champua,21
+Champua,21
+Baria,21
+Turumunga,21
+Turumunga,21
+Patana,21
+Patana,21
+Ghatgaon,21
+Ghatgaon,21
+Kendujhar Sadar,21
+Kendujhar Town,21
+Pandapara,21
+Harichandanpur,21
+Daitari,21
+Ghasipura,21
+Sainkul,21
+Nandipada,21
+Anandapur,21
+Anandapur,21
+Soso,21
+Tiringi,21
+Bahalda,21
+Gorumahisani,21
+Rairangpur,21
+Rairangpur Town,21
+Badampahar,21
+Bisoi,21
+Bangiriposi,21
+Jharpokharia,21
+Chandua,21
+Koliana,21
+Baripada Sadar,21
+Baripada Town,21
+Suliapada,21
+Muruda ,21
+Muruda ,21
+Muruda ,21
+Betanati,21
+Betanati,21
+Rasagobindapur,21
+Baisinga,21
+Barsahi,21
+Khunta,21
+Udala,21
+Kaptipada,21
+Sharata,21
+Mahuldiha,21
+Thakurmunda,21
+Karanjia,21
+Jashipur,21
+Jashipur,21
+Raruan,21
+Raruan,21
+Raibania,21
+Jaleswar,21
+Bhograi,21
+Baliapal,21
+Singla,21
+Singla,21
+Basta,21
+Rupsa,21
+Baleshwar Sadar,21
+Chandipur,21
+Remuna,21
+Bampada,21
+Nilagiri,21
+Berhampur,21
+Oupada,21
+Soro,21
+Khaira,21
+Similia,21
+Agarpada,21
+Bant,21
+Bant,21
+Bhadrak Rural,21
+Bhadrak Rural,21
+Bhandari Pokhari,21
+Dhamanagar,21
+Dhusuri,21
+Dhusuri,21
+Tihidi,21
+Tihidi,21
+Chandabali,21
+Bansada,21
+Naikanidihi,21
+Basudebpur,21
+Rajkanika,21
+Aali,21
+Pattamundai,21
+Kendrapara,21
+Patkura,21
+Patkura,21
+Mahakalapada,21
+Rajnagar,21
+Paradip,21
+Kujang,21
+Ersama,21
+Tirtol,21
+Balikuda,21
+Naugaon,21
+Jagatsinghapur,21
+Mahanga,21
+Salepur,21
+Jagatpur,21
+Kishannagar,21
+Niali,21
+Gobindpur,21
+Cuttack Sadar,21
+Tangi,21
+Choudwar,21
+Choudwar,21
+Gurudijhatia,21
+Barang,21
+Athagad,21
+Tigiria,21
+Banki,21
+Baidyeswar,21
+Badamba,21
+Kanpur,21
+Narasinghpur,21
+Sukinda,21
+Duburi,21
+Jajapur Road,21
+Korai,21
+Jajapur   ,21
+Mangalpur,21
+Binjharpur,21
+Binjharpur,21
+Balichandrapur,21
+Balichandrapur,21
+Badachana,21
+Badachana,21
+Dharmasala,21
+Bhuban,21
+Kamakshyanagar,21
+Kamakshyanagar,21
+Parajang,21
+Parajang,21
+Tumusingha,21
+Motunga,21
+Balimi,21
+Hindol,21
+Rasol,21
+Dhenkanal Sadar,21
+Gandia,21
+Gandia,21
+Gandia,21
+Palalahada,21
+Khamar,21
+Rengali Damsite,21
+Kaniha,21
+NTPC,21
+Samal Barrage,21
+Talcher Sadar,21
+Colliery,21
+Bikrampur,21
+NALCO,21
+Banarpal,21
+Anugul,21
+Bantala,21
+Purunakot,21
+Jarapada,21
+Jarapada,21
+Chhendipada,21
+Handapa,21
+Kishorenagar,21
+Thakurgarh,21
+Athmallik,21
+Dasapalla,21
+Gania,21
+Khandapada,21
+Fategarh,21
+Nayagarh,21
+Nuagaon,21
+Odagaon,21
+Sarankul,21
+Ranapur,21
+Bolagad,21
+Begunia,21
+Begunia,21
+Khordha,21
+Khordha,21
+Chandaka,21
+Chandaka,21
+Khandagiri,21
+Saheednagar,21
+Balianta,21
+Balipatana,21
+Lingaraj,21
+Lingaraj,21
+Jatani,21
+Jankia,21
+Jankia,21
+Jankia,21
+Tangi,21
+Tangi,21
+Balugaon,21
+Banapur,21
+Delanga,21
+Pipili,21
+Nimapada,21
+Nimapada,21
+Gop,21
+Gop,21
+Kakatpur,21
+Konark,21
+Konark,21
+Satyabadi,21
+Satyabadi,21
+Chandanpur,21
+Sadar,21
+Sadar,21
+Brahmagiri,21
+Brahmagiri,21
+Krushna Prasad,21
+Tarasingi,21
+Buguda,21
+Bhanjanagar,21
+Bhanjanagar,21
+Gangapur,21
+Gangapur,21
+Gangapur,21
+Gangapur,21
+Surada,21
+Badagada,21
+Badagada,21
+Asika,21
+Purusottampur,21
+Purusottampur,21
+Purusottampur,21
+Kabisuryanagar,21
+Kabisuryanagar,21
+Kodala,21
+Kodala,21
+Khalikote,21
+Khalikote,21
+Rambha,21
+Rambha,21
+Rambha,21
+Chhatrapur,21
+Chhatrapur,21
+Gopalpur,21
+Gopalpur,21
+Brahmapur Sadar,21
+Brahmapur Sadar,21
+Brahmapur Sadar,21
+Golanthara,21
+Golanthara,21
+Nuagaon,21
+Nuagaon,21
+Nuagaon,21
+Digapahandi,21
+Digapahandi,21
+Digapahandi,21
+Jarada,21
+Patapur,21
+Patapur,21
+Patapur,21
+Hinjili,21
+Hinjili,21
+Hinjili,21
+Hinjili,21
+Hinjili,21
+Ramagiri,21
+Ramagiri,21
+Ramagiri,21
+Adva,21
+Mohana,21
+R.Udaygiri,21
+Garabandha,21
+Parlakhemundi,21
+Kashinagara,21
+Serango,21
+Serango,21
+Rayagada,21
+Gochhapada,21
+Phulabani,21
+Phulabani Town ,21
+Khajuripada,21
+G.Udayagiri,21
+Tikabali,21
+Sarangagarh,21
+Sarangagarh,21
+Phiringia,21
+Baliguda,21
+Tumudibandha,21
+Belaghar,21
+Kotagarh,21
+Brahmanigaon,21
+Daringbadi,21
+Raikia,21
+Kantamal,21
+Manamunda,21
+Manamunda,21
+Baunsuni,21
+Baudh Sadar,21
+Puruna Katak,21
+Harbhanga,21
+Dunguripali,21
+Dunguripali,21
+Dunguripali,21
+Tarbha,21
+Sonapur,21
+Biramaharajpur,21
+Ulunda,21
+Binika,21
+Binika,21
+Rampur,21
+Rampur,21
+Khaprakhol,21
+Turekela,21
+Belpara,21
+Kantabanji,21
+Bangomunda,21
+Sindhekela,21
+Sindhekela,21
+Titlagarh,21
+Saintala,21
+Tushura,21
+Patnagarh,21
+Balangir,21
+Balangir,21
+Loisinga,21
+Loisinga,21
+Jonk,21
+Nuapada,21
+Komana,21
+Khariar,21
+Boden,21
+Sinapali,21
+Kokasara,21
+Kokasara,21
+Dharamgarh,21
+Kegaon,21
+Kegaon,21
+Sadar,21
+Sadar,21
+Kesinga,21
+Kesinga,21
+Narala,21
+Narala,21
+Madanpur Rampur,21
+Lanjigarh,21
+Lanjigarh,21
+Thuamul Rampur,21
+Junagarh,21
+Junagarh,21
+Jayapatna,21
+Ambadala,21
+Muniguda,21
+Muniguda,21
+Bishamakatak,21
+Gudari,21
+Padmapur,21
+Puttasing,21
+Gunupur,21
+Rayagada,21
+Kalyanasingpur,21
+Kashipur,21
+Tikiri,21
+Raighar,21
+Umarkote,21
+Chandahandi,21
+Jharigan,21
+Jharigan,21
+Dabugan,21
+Dabugan,21
+Paparahandi,21
+Tentulikhunti,21
+Khatiguda,21
+Nabarangapur,21
+Kodinga,21
+Kotpad,21
+Boriguma,21
+Bhairabsingipur,21
+Dasamantapur,21
+Lakshmipur,21
+Narayanpatana,21
+Kakiriguma,21
+Koraput,21
+Koraput Town,21
+Nandapur,21
+Nandapur,21
+Similiguda,21
+Damanjodi,21
+Pottangi,21
+Padua,21
+Sunabeda,21
+Machh kund,21
+Boipariguda,21
+Jeypur,21
+Kundura,21
+Malkangiri,21
+Mathili,21
+Mudulipada,21
+Chitrakonda,21
+Orkel,21
+Kalimela,21
+M.V. 79,21
+Motu,21
+Bharatpur,22
+Baikunthpur,22
+Sonhat,22
+Manendragarh,22
+Pal,22
+Wadrafnagar,22
+Pratappur,22
+Samari,22
+Surajpur,22
+Ambikapur,22
+Rajpur,22
+Lundra,22
+Sitapur,22
+Bagicha,22
+Jashpur,22
+Kunkuri,22
+Pathalgaon,22
+Udaipur (Dharamjaigarh),22
+Lailunga,22
+Gharghoda,22
+Raigarh,22
+Kharsia,22
+Sarangarh,22
+Katghora,22
+Pali,22
+Korba,22
+Kartala,22
+Janjgir,22
+Nawagarh,22
+Champa,22
+Sakti,22
+Pamgarh,22
+Dabhara,22
+Malkharoda,22
+Jaijaipur,22
+Pendraroad,22
+Lormi,22
+Kota,22
+Mungeli,22
+Takhatpur,22
+Bilaspur,22
+Masturi,22
+Bilha,22
+Kawardha,22
+Pandariya,22
+Chhuikhadan,22
+Khairagarh,22
+Dongargarh,22
+Rajnandgaon,22
+Dongargaon,22
+Mohla,22
+Manpur,22
+Ambagarh,22
+Nawagarh,22
+Bemetra,22
+Saja,22
+Berla,22
+Dhamdha,22
+Durg,22
+Patan,22
+Gunderdehi,22
+Dondiluhara,22
+Sanjari Balod,22
+Gurur,22
+Simga,22
+Bhatapara,22
+Baloda Bazar,22
+Palari,22
+Kasdol,22
+Bilaigarh,22
+Arang,22
+Abhanpur,22
+Raipur,22
+Rajim,22
+Tilda ,22
+Bindranawagarh,22
+Deobhog,22
+Basna,22
+Saraipali,22
+Mahasamund,22
+Kurud,22
+Dhamtari,22
+Nagri,22
+Charama,22
+Bhanupratappur,22
+Kanker,22
+Narharpur,22
+Antagarh,22
+Pakhanjur,22
+Keshkal,22
+Narayanpur,22
+Kondagaon,22
+Jagdalpur,22
+Bhopalpattanam (Matdand),22
+Bijapur,22
+Dantewada,22
+Konta,22
+Vijaypur,23
+Sheopur,23
+Karahal,23
+Ambah,23
+Porsa,23
+Morena,23
+Joura,23
+Kailaras,23
+Sabalgarh,23
+Ater,23
+Bhind,23
+Mehgaon,23
+Gohad,23
+Ron,23
+Mihona,23
+Lahar,23
+Gird,23
+Pichhore,23
+Bhitarwar,23
+Seondha,23
+Datia,23
+Bhander,23
+Pohari,23
+Shivpuri,23
+Narwar,23
+Karera,23
+Kolaras,23
+Pichhore,23
+Khaniyadhana,23
+Isagarh,23
+Chanderi,23
+Guna,23
+Ashoknagar,23
+Raghogarh,23
+Mungaoli,23
+Kumbhraj,23
+Aron,23
+Chachaura,23
+Niwari,23
+Prithvipur,23
+Jatara,23
+Palera,23
+Baldeogarh,23
+Tikamgarh,23
+Gaurihar,23
+Laundi,23
+Nowgaon,23
+Chhatarpur,23
+Rajnagar,23
+Bada-Malhera,23
+Bijawar,23
+Ajaigarh,23
+Panna,23
+Gunnor,23
+Pawai,23
+Shahnagar,23
+Bina,23
+Khurai,23
+Banda,23
+Rahatgarh,23
+Sagar,23
+Garhakota,23
+Rehli,23
+Kesli,23
+Deori,23
+Hatta,23
+Patera,23
+Batiyagarh,23
+Patharia,23
+Damoh,23
+Jabera,23
+Tendukheda,23
+Raghurajnagar,23
+Nagod,23
+Unchehara,23
+Rampur-Baghelan,23
+Amarpatan,23
+Ramnagar,23
+Maihar,23
+Teonthar,23
+Sirmour,23
+Hanumana,23
+Mauganj,23
+Huzur,23
+Raipur - Karchuliyan,23
+Gurh,23
+Bandhogarh,23
+Beohari,23
+Jaisinghnagar,23
+Sohagpur,23
+Jaitpur,23
+Kotma,23
+Anuppur,23
+Jaithari,23
+Pushprajgarh,23
+Rampur Naikin,23
+Churhat,23
+Gopadbanas,23
+Sihawal,23
+Chitrangi,23
+Deosar,23
+Majhauli,23
+Kusmi,23
+Singrauli,23
+Jawad,23
+Neemuch,23
+Manasa,23
+Bhanpura,23
+Malhargarh,23
+Garoth,23
+Mandsaur,23
+Sitamau,23
+Piploda,23
+Jaora,23
+Alot,23
+Sailana,23
+Bajna,23
+Ratlam,23
+Khacharod,23
+Nagda,23
+Mahidpur,23
+Ghatiya,23
+Tarana,23
+Ujjain,23
+Badnagar,23
+Susner,23
+Nalkheda,23
+Badod,23
+Agar,23
+Shajapur,23
+Moman Badodiya,23
+Shujalpur,23
+Kalapipal,23
+Tonk Khurd,23
+Sonkatch,23
+Dewas,23
+Kannod,23
+Bagli,23
+Khategaon,23
+Thandla,23
+Petlawad,23
+Meghnagar,23
+Jhabua,23
+Bhavra,23
+Jobat,23
+Alirajpur,23
+Ranapur,23
+Badnawar,23
+Sardarpur,23
+Dhar,23
+Gandhwani,23
+Kukshi,23
+Manawar,23
+Dharampuri,23
+Depalpur,23
+Sawer,23
+Indore,23
+Mhow ,23
+Barwaha,23
+Maheshwar,23
+Kasrawad,23
+Segaon,23
+Bhikangaon,23
+Khargone,23
+Bhagwanpura,23
+Jhiranya,23
+Barwani,23
+Thikri,23
+Rajpur,23
+Pansemal,23
+Niwali,23
+Sendhwa,23
+Harsud,23
+Khandwa,23
+Pandhana,23
+Burhanpur,23
+Nepanagar,23
+Jirapur,23
+Khilchipur,23
+Rajgarh,23
+Biaora,23
+Sarangpur,23
+Narsinghgarh,23
+Lateri,23
+Sironj,23
+Kurwai,23
+Basoda,23
+Nateran,23
+Gyaraspur,23
+Vidisha,23
+Berasia,23
+Huzur,23
+Sehore,23
+Ashta,23
+Ichhawar,23
+Nasrullaganj,23
+Budni,23
+Raisen,23
+Gairatganj,23
+Begamganj,23
+Goharganj,23
+Baraily,23
+Silwani,23
+Udaipura,23
+Bhainsdehi,23
+Betul ,23
+Shahpur,23
+Multai,23
+Amla,23
+Khirkiya,23
+Harda,23
+Timarni,23
+Seoni-Malwa,23
+Itarsi,23
+Hoshangabad,23
+Babai,23
+Sohagpur,23
+Pipariya,23
+Bankhedi,23
+Murwara,23
+Vijayraghavgarh,23
+Bahoriband,23
+Dhimar Kheda,23
+Sihora,23
+Patan,23
+Jabalpur,23
+Kundam,23
+Gotegaon,23
+Gadarwara,23
+Narsimhapur,23
+Kareli,23
+Tendukheda,23
+Shahpura,23
+Dindori ,23
+Niwas,23
+Mandla,23
+Bichhiya,23
+Nainpur,23
+Tamia,23
+Amarwara,23
+Chaurai,23
+Jamai,23
+Parasia,23
+Chhindwara,23
+Sausar,23
+Bichhua,23
+Pandhurna,23
+Lakhnadon,23
+Ghansor,23
+Keolari,23
+Seoni,23
+Barghat,23
+Kurai,23
+Katangi,23
+Waraseoni,23
+Balaghat,23
+Kirnapur,23
+Baihar,23
+Lanji,23
+Lakhpat,24
+Rapar,24
+Bhachau,24
+Anjar,24
+Bhuj,24
+Nakhatrana,24
+Abdasa,24
+Mandvi,24
+Mundra,24
+Gandhidham,24
+Vav,24
+Tharad,24
+Dhanera,24
+Dantiwada,24
+Amirgadh,24
+Danta,24
+Vadgam,24
+Palanpur,24
+Deesa,24
+Deodar,24
+Bhabhar,24
+Kankrej,24
+Santalpur,24
+Radhanpur,24
+Vagdod,24
+Sidhpur,24
+Patan,24
+Harij,24
+Sami,24
+Chanasma,24
+Satlasana,24
+Kheralu,24
+Unjha,24
+Visnagar,24
+Vadnagar,24
+Vijapur,24
+Mahesana,24
+Becharaji,24
+Kadi,24
+Khedbrahma,24
+Vijaynagar,24
+Vadali,24
+Idar,24
+Bhiloda,24
+Meghraj,24
+Himatnagar,24
+Prantij,24
+Talod,24
+Modasa,24
+Dhansura,24
+Malpur,24
+Bayad,24
+Kalol,24
+Mansa,24
+Gandhinagar,24
+Dehgam,24
+Mandal,24
+Detroj-Rampura,24
+Viramgam,24
+Sanand,24
+Ahmadabad City,24
+Daskroi,24
+Dholka,24
+Bavla,24
+Ranpur,24
+Barwala,24
+Dhandhuka,24
+Halvad,24
+Dhrangadhra,24
+Dasada,24
+Lakhtar,24
+Wadhwan,24
+Muli,24
+Chotila,24
+Sayla,24
+Chuda,24
+Limbdi,24
+Maliya,24
+Morvi,24
+Tankara,24
+Wankaner,24
+Paddhari,24
+Rajkot,24
+Lodhika,24
+Kotda Sangani,24
+Jasdan,24
+Gondal,24
+Jamkandorna,24
+Upleta,24
+Dhoraji,24
+Jetpur,24
+Okhamandal,24
+Khambhalia,24
+Jamnagar,24
+Jodiya,24
+Dhrol,24
+Kalavad,24
+Lalpur,24
+Kalyanpur,24
+Bhanvad,24
+Jamjodhpur,24
+Porbandar,24
+Ranavav,24
+Kutiyana,24
+Manavadar,24
+Vanthali,24
+Junagadh,24
+Bhesan,24
+Visavadar,24
+Mendarda,24
+Keshod,24
+Mangrol,24
+Malia,24
+Talala,24
+Patan-Veraval,24
+Sutrapada,24
+Kodinar,24
+Una,24
+Kunkavav Vadia,24
+Babra,24
+Lathi,24
+Lilia,24
+Amreli,24
+Bagasara,24
+Dhari,24
+Savar Kundla,24
+Khambha,24
+Jafrabad,24
+Rajula,24
+Botad,24
+Vallabhipur,24
+Gadhada,24
+Umrala,24
+Bhavnagar,24
+Ghogha,24
+Sihor,24
+Gariadhar,24
+Palitana,24
+Talaja,24
+Mahuva,24
+Tarapur,24
+Sojitra,24
+Umreth,24
+Anand,24
+Petlad,24
+Khambhat,24
+Borsad,24
+Anklav,24
+Kapadvanj,24
+Virpur,24
+Balasinor,24
+Kathlal,24
+Mehmedabad,24
+Kheda,24
+Matar,24
+Nadiad,24
+Mahudha,24
+Thasra,24
+Khanpur,24
+Kadana,24
+Santrampur,24
+Lunawada,24
+Shehera,24
+Morwa (Hadaf),24
+Godhra,24
+Kalol,24
+Ghoghamba,24
+Halol,24
+Jambughoda,24
+Fatepura,24
+Jhalod,24
+Limkheda,24
+Dohad,24
+Garbada,24
+Devgadbaria,24
+Dhanpur,24
+Savli,24
+Vadodara,24
+Vaghodia,24
+Jetpur Pavi,24
+Chhota Udaipur,24
+Kavant,24
+Nasvadi,24
+Sankheda,24
+Dabhoi,24
+Padra,24
+Karjan,24
+Sinor,24
+Tilakwada,24
+Nandod,24
+Dediapada,24
+Sagbara,24
+Jambusar,24
+Amod,24
+Vagra,24
+Bharuch,24
+Jhagadia,24
+Anklesvar,24
+Hansot,24
+Valia,24
+Olpad,24
+Mangrol,24
+Umarpada,24
+Nizar,24
+Uchchhal,24
+Songadh,24
+Mandvi,24
+Kamrej,24
+Surat City,24
+Chorasi,24
+Palsana,24
+Bardoli,24
+Vyara,24
+Valod,24
+Mahuva,24
+The Dangs,24
+Navsari,24
+Jalalpore,24
+Gandevi,24
+Chikhli,24
+Bansda,24
+Valsad,24
+Dharampur,24
+Pardi,24
+Kaprada,24
+Umbergaon,24
+Diu,25
+Daman,25
+Dadra & Nagar Haveli,26
+Akkalkuwa,27
+Akrani,27
+Talode,27
+Shahade,27
+Nandurbar,27
+Nawapur,27
+Shirpur,27
+Sindkhede,27
+Sakri,27
+Dhule,27
+Chopda,27
+Yawal,27
+Raver,27
+Edlabad (Muktainagar),27
+Bodvad,27
+Bhusawal,27
+Jalgaon,27
+Erandol,27
+Dharangaon,27
+Amalner,27
+Parola,27
+Bhadgaon,27
+Chalisgaon,27
+Pachora,27
+Jamner,27
+Jalgaon (Jamod),27
+Sangrampur,27
+Shegaon,27
+Nandura,27
+Malkapur,27
+Motala,27
+Khamgaon,27
+Mehkar,27
+Chikhli,27
+Buldana,27
+Deolgaon Raja,27
+Sindkhed Raja,27
+Lonar,27
+Telhara,27
+Akot,27
+Balapur,27
+Akola,27
+Murtijapur,27
+Patur,27
+Barshitakli,27
+Malegaon,27
+Mangrulpir,27
+Karanja,27
+Manora,27
+Washim,27
+Risod,27
+Dharni,27
+Chikhaldara,27
+Anjangaon Surji,27
+Achalpur,27
+Chandurbazar,27
+Morshi,27
+Warud,27
+Teosa,27
+Amravati,27
+Bhatkuli,27
+Daryapur,27
+Nandgaon-Khandeshwar,27
+Chandur Railway,27
+Dhamangaon Railway,27
+Ashti,27
+Karanja,27
+Arvi,27
+Seloo,27
+Wardha,27
+Deoli,27
+Hinganghat,27
+Samudrapur,27
+Narkhed,27
+Katol,27
+Kalameshwar,27
+Savner,27
+Parseoni,27
+Ramtek,27
+Mauda,27
+Kamptee,27
+Nagpur (Rural),27
+Nagpur (Urban),27
+Hingna,27
+Umred,27
+Kuhi,27
+Bhiwapur,27
+Tumsar,27
+Mohadi,27
+Bhandara,27
+Sakoli,27
+Lakhani,27
+Pauni,27
+Lakhandur,27
+Tirora,27
+Goregaon,27
+Gondiya,27
+Amgaon,27
+Salekasa,27
+Sadak-Arjuni,27
+Arjuni Morgaon,27
+Deori,27
+Desaiganj (Vadasa),27
+Armori,27
+Kurkheda,27
+Korchi,27
+Dhanora,27
+Gadchiroli,27
+Chamorshi,27
+Mulchera,27
+Etapalli,27
+Bhamragad,27
+Aheri,27
+Sironcha,27
+Warora,27
+Chimur,27
+Nagbhir,27
+Brahmapuri,27
+Sawali,27
+Sindewahi,27
+Bhadravati,27
+Chandrapur,27
+Mul,27
+Pombhurna,27
+Ballarpur,27
+Korpana,27
+Rajura,27
+Gondpipri,27
+Ner,27
+Babulgaon,27
+Kalamb,27
+Yavatmal,27
+Darwha,27
+Digras,27
+Pusad,27
+Umarkhed,27
+Mahagaon,27
+Arni,27
+Ghatanji,27
+Kelapur,27
+Ralegaon,27
+Maregaon,27
+Zari-Jamani,27
+Wani,27
+Mahoor,27
+Kinwat,27
+Himayatnagar,27
+Hadgaon,27
+Ardhapur,27
+Nanded,27
+Mudkhed,27
+Bhokar,27
+Umri,27
+Dharmabad,27
+Biloli,27
+Naigaon (Khairgaon),27
+Loha,27
+Kandhar,27
+Mukhed,27
+Deglur,27
+Sengaon,27
+Hingoli,27
+Aundha (Nagnath),27
+Kalamnuri,27
+Basmath,27
+Sailu,27
+Jintur,27
+Parbhani,27
+Manwath,27
+Pathri,27
+Sonpeth,27
+Gangakhed,27
+Palam,27
+Purna,27
+Bhokardan,27
+Jafferabad,27
+Jalna,27
+Badnapur,27
+Ambad,27
+Ghansawangi,27
+Partur,27
+Mantha,27
+Kannad,27
+Soegaon,27
+Sillod,27
+Phulambri,27
+Aurangabad,27
+Khuldabad,27
+Vaijapur,27
+Gangapur,27
+Paithan,27
+Surgana,27
+Kalwan,27
+Deola,27
+Baglan,27
+Malegaon,27
+Nandgaon,27
+Chandvad,27
+Dindori,27
+Peint,27
+Trimbakeshwar,27
+Nashik,27
+Igatpuri,27
+Sinnar,27
+Niphad,27
+Yevla,27
+Talasari,27
+Dahanu,27
+Vikramgad,27
+Jawhar,27
+Mokhada,27
+Vada,27
+Palghar,27
+Vasai,27
+Thane,27
+Bhiwandi,27
+Shahapur,27
+Kalyan,27
+Ulhasnagar,27
+Ambarnath,27
+Murbad,27
+Uran,27
+Panvel,27
+Karjat,27
+Khalapur,27
+Pen,27
+Alibag,27
+Murud,27
+Roha,27
+Sudhagad,27
+Mangaon,27
+Tala,27
+Shrivardhan,27
+Mhasla,27
+Mahad,27
+Poladpur,27
+Junnar,27
+Ambegaon,27
+Shirur,27
+Khed,27
+Mawal,27
+Mulshi,27
+Haveli,27
+Pune City,27
+Daund,27
+Purandhar,27
+Velhe,27
+Bhor,27
+Baramati,27
+Indapur,27
+Akola,27
+Sangamner,27
+Kopargaon,27
+Rahta,27
+Shrirampur,27
+Nevasa,27
+Shevgaon,27
+Pathardi,27
+Nagar,27
+Rahuri,27
+Parner,27
+Shrigonda,27
+Karjat,27
+Jamkhed,27
+Ashti,27
+Patoda,27
+Shirur (Kasar),27
+Georai,27
+Manjalegaon,27
+Wadwani,27
+Bid,27
+Kaij,27
+Dharur,27
+Parli,27
+Ambejogai,27
+Latur,27
+Renapur,27
+Ahmadpur,27
+Jalkot,27
+Chakur,27
+Shirur-Anantpal,27
+Ausa,27
+Nilanga,27
+Deoni,27
+Udgir,27
+Paranda,27
+Bhum,27
+Washi,27
+Kalamb,27
+Osmanabad,27
+Tuljapur,27
+Lohara,27
+Umarga,27
+Karmala,27
+Madha,27
+Barshi,27
+Solapur North,27
+Mohol,27
+Pandharpur,27
+Malshiras,27
+Sangole,27
+Mangalvedhe,27
+Solapur South,27
+Akkalkot,27
+Mahabaleshwar,27
+Wai,27
+Khandala,27
+Phaltan,27
+Man,27
+Khatav,27
+Koregaon,27
+Satara,27
+Jaoli,27
+Patan,27
+Karad,27
+Mandangad,27
+Dapoli,27
+Khed,27
+Chiplun,27
+Guhagar,27
+Ratnagiri,27
+Sangameshwar,27
+Lanja,27
+Rajapur,27
+Devgad,27
+Vaibhavvadi,27
+Kankavli,27
+Malwan,27
+Vengurla,27
+Kudal,27
+Sawantwadi,27
+Dodamarg,27
+Shahuwadi,27
+Panhala,27
+Hatkanangle,27
+Shirol,27
+Karvir,27
+Bavda,27
+Radhanagari,27
+Kagal,27
+Bhudargad,27
+Ajra,27
+Gadhinglaj,27
+Chandgad,27
+Shirala,27
+Walwa,27
+Palus,27
+Khanapur,27
+Atpadi,27
+Tasgaon,27
+Miraj,27
+Kavathe-Mahankal,27
+Jat,27
+Tamsi,28
+Adilabad,28
+Jainad,28
+Bela,28
+Talamadugu,28
+Gudihatnoor,28
+Indervelly,28
+Narnoor,28
+Kerameri ,28
+Wankidi,28
+Sirpur (T),28
+Koutala,28
+Bejjur,28
+Kaghaznagar ,28
+Asifabad ,28
+Jainoor,28
+Utnoor,28
+Ichoda,28
+Bazarhatnoor,28
+Boath,28
+Neeradigonda,28
+Sirpur,28
+Rebbena,28
+Bhimini,28
+Dahegaon,28
+Vemanpalle,28
+Nennel,28
+Tandur,28
+Tiryani,28
+Jannaram,28
+Kaddam (Peddur),28
+Sarangapur,28
+Kuntala,28
+Kubeer,28
+Bhainsa,28
+Thanoor,28
+Mudhole,28
+Lokeshwaram,28
+Dilawarpur,28
+Nirmal,28
+Laxmanchanda,28
+Mamda,28
+Khanapur,28
+Dandepalle,28
+Kasipet,28
+Bellampalle,28
+Kotapalle,28
+Mandamarri,28
+Luxettipet,28
+Mancherial,28
+Jaipur,28
+Chennur,28
+Ranjal,28
+Navipet,28
+Nandipet,28
+Armur,28
+Balkonda,28
+Mortad,28
+Kammar palle,28
+Bheemgal,28
+Velpur,28
+Jakranpalle,28
+Makloor,28
+Nizamabad,28
+Yedpalle,28
+Bodhan,28
+Kotgiri,28
+Madnoor,28
+Jukkal,28
+Bichkunda,28
+Birkoor,28
+Varni,28
+Dichpalle,28
+Dharpalle,28
+Sirkonda,28
+Machareddy,28
+Sadasivanagar,28
+Gandhari,28
+Banswada,28
+Pitlam,28
+Nizamsagar,28
+Yellareddy,28
+Nagareddypet,28
+Lingampet,28
+Tadwai,28
+Kamareddy,28
+Bhiknur,28
+Domakonda,28
+Ibrahimpatnam,28
+Mallapur,28
+Raikal,28
+Sarangapur,28
+Dharmapuri,28
+Velgatoor,28
+Ramagundam,28
+Kamanpur,28
+Manthani,28
+Kataram,28
+Mahadevpur,28
+Mutharam (N),28
+Malharrao mandal,28
+Mutharam (A),28
+Srirampur,28
+Peddapalle,28
+Julapalle,28
+Bommareddypalle (H/o.Dharmaram),28
+Gollapalle,28
+Mallial,28
+Jagtial,28
+Medipalle,28
+Koratla,28
+Metpalle,28
+Kathlapur,28
+Chandurthi,28
+Kodimial,28
+Pegadapalle,28
+Gangadhara,28
+Ramadugu,28
+Choppadandi,28
+Sulthanabad,28
+Odela,28
+Manakondur,28
+Karimnagar,28
+Boinpalle,28
+Vemulawada,28
+Konaraopeta,28
+Yellareddipet,28
+Gambhiraopet,28
+Mustabad,28
+Sirsilla,28
+Ellanthakunta,28
+Bejjanki,28
+Thimmapur (LMD),28
+Veenavanka,28
+Jammikunta,28
+Shankarapeta kesavapatnam,28
+Chigurumamidi,28
+Koheda,28
+Husnabad,28
+Saidapur,28
+Huzurabad,28
+Kamalapur,28
+Bheemadevarpalle,28
+Elkathurthy,28
+Kangti,28
+Manoor,28
+Narayankhed,28
+Kalher,28
+Shankarampet (A),28
+Papannapet,28
+Medak,28
+Ramayampet,28
+Dubbak,28
+Siddipet,28
+Chinnakodur,28
+Nangnoor,28
+Kondapak,28
+Mirdoddi,28
+Doulthabad,28
+Chegunta,28
+Shankarampet (R),28
+Kulcharam,28
+Tekmal,28
+Alladurg,28
+Regode,28
+Raikode,28
+Nyalkal,28
+Zahirabad,28
+Kohir,28
+Jharasangam,28
+Munipalle,28
+Pulkal,28
+Andole,28
+Kowdipalle,28
+Veldurthy,28
+Tupran,28
+Gajwel,28
+Jagdevpur,28
+Wargal,28
+Mulugu,28
+Shivampet,28
+Narsapur,28
+Hathnoora,28
+Sadasivpet,28
+Kondapoor,28
+Sangareddy,28
+Jinnaram,28
+Patancheru,28
+Ramchandrapuram,28
+Shaikpet,28
+Ameerpet,28
+Secunderabad,28
+Tirumalagiri,28
+Maredpalle,28
+Musheerabad,28
+Amberpet,28
+Himayathnagar,28
+Nampally,28
+Khairatabad,28
+Asifnagar,28
+Golconda,28
+Bahadurpura,28
+Bandlaguda,28
+Charminar,28
+Saidabad,28
+Marpalle,28
+Mominpet,28
+Nawabpet,28
+Shankarpalle,28
+Serilingampalle,28
+Balanagar,28
+Quthbullapur,28
+Medchal,28
+Shamirpet,28
+Malkajgiri,28
+Keesara,28
+Ghatkesar,28
+Uppal kalan ,28
+Hayathnagar,28
+Saroornagar,28
+Rajendranagar,28
+Moinabad,28
+Chevella,28
+Vicarabad,28
+Dharur,28
+Bantwaram,28
+Peddemul,28
+Tandur,28
+Basheerabad,28
+Yalal,28
+Doma,28
+Gandeed,28
+Kulkacharla,28
+Pargi,28
+Pudur,28
+Shabad,28
+Shamshabad,28
+Maheswaram,28
+Kandukur,28
+Ibrahimpatnam,28
+Manchal,28
+Yacharam,28
+Kodangal,28
+Bomraspet,28
+Kosgi,28
+Doulathabad,28
+Damaragidda,28
+Maddur,28
+Hanwada,28
+Nawabpet,28
+Balanagar,28
+Kondurg,28
+Farooqnagar,28
+Kothur,28
+Keshampet,28
+Talakondapalle,28
+Amangal,28
+Madgul,28
+Veldanda,28
+Midjil,28
+Jadcharla,28
+Mahabubnagar,28
+Koilkonda,28
+Narayanpet,28
+Utkoor,28
+Dhanwada,28
+Devarkadra,28
+Bhoothpur,28
+Thimmajipet,28
+Kalwakurthy,28
+Vangoor,28
+Amrabad,28
+Achampet,28
+Uppununthala,28
+Telkapalle,28
+Tadoor,28
+Nagarkurnool,28
+Bijinapalle,28
+Ghanpur,28
+Addakal,28
+Chinnachintakunta,28
+Narwa,28
+Makthal,28
+Maganoor,28
+Dharur,28
+Atmakur,28
+Kothakota,28
+Peddamandadi,28
+Wanaparthy,28
+Gopalpeta,28
+Balmoor,28
+Lingal,28
+Peddakothapalle,28
+Kodair,28
+Pangal,28
+Pebbair,28
+Gadwal,28
+Maldakal,28
+Ghattu,28
+Aiza,28
+Itikyal,28
+Weepangandla,28
+Kollapur,28
+Waddepalle,28
+Manopad,28
+Alampur,28
+Bommalaramaram,28
+M.Turkapalle,28
+Rajapet,28
+Yadagirigutta,28
+Alair,28
+Gundala,28
+Thirumalgiri,28
+Thungathurthi,28
+Nuthankal,28
+Atmakur (S),28
+Jaji reddi gudem,28
+Sali gouraram,28
+Mothkur,28
+Atmakur (M),28
+Valigonda,28
+Bhuvanagiri,28
+Bibinagar,28
+Pochampalle,28
+Choutuppal,28
+Ramannapeta,28
+Chityala,28
+Narketpalle,28
+Kattangoor,28
+Nakrekal,28
+Kethe palle,28
+Suryapet,28
+Chivvemla,28
+Mothey,28
+Nadigudem,28
+Munagala,28
+Penpahad,28
+Vemulapalle,28
+Thipparthi,28
+Nalgonda,28
+Munugode,28
+Narayanpur,28
+Marriguda,28
+Chintha palle,28
+Gundla palle,28
+Chandam pet,28
+Devarkonda,28
+Nampalle,28
+Chandur,28
+Kangal,28
+Gurrampode,28
+Pedda adiserla palle,28
+Peddavoora,28
+Anumula,28
+Nidamanur,28
+Thripuraram,28
+Damaracherla,28
+Miryalaguda,28
+Nereducherla,28
+Garide palle,28
+Chilkur,28
+Kodad,28
+Huzurnagar,28
+Mattam palle,28
+Mella cheruvu,28
+Cherial,28
+Maddur,28
+Bachannapet,28
+Narmetta,28
+Ghanpur (Station),28
+Dharamsagar,28
+Hasanparthy,28
+Parakal,28
+Mogullapalle,28
+Chityal,28
+Bhupalpalle,28
+Ghanpur (Mulug),28
+Venkatapur,28
+Eturnagaram,28
+Mangapet,28
+Tadvai,28
+Govindaraopet,28
+Mulug,28
+Regonda,28
+Shyampet,28
+Nallabelly,28
+Duggondi,28
+Atmakur,28
+Hanamkonda,28
+Zaffergadh,28
+Palakurthi,28
+Raghunathpalle,28
+Jangaon,28
+Lingalaghanpur,28
+Devaruppula,28
+Kodakandla,28
+Raiparthy,28
+Wardhanna pet,28
+Sangam,28
+Warangal,28
+Geesugonda,28
+Narsampet,28
+Khanapur,28
+Kothagudem,28
+Gudur,28
+Chennaraopet,28
+Nekkonda,28
+Parvathagiri,28
+Thorrur,28
+Nellikudur,28
+Kesamudram,28
+Mahabubabad,28
+Narsimhulapet,28
+Maripeda,28
+Kuravi,28
+Dornakal,28
+Wazeed,28
+Venkatapuram,28
+Pinapaka,28
+Cherla,28
+Manugur,28
+Aswapuram,28
+Dummugudem,28
+Bhadrachalam,28
+Kunavaram,28
+Chintur,28
+Vararamachandrapuram,28
+Velairpad,28
+Kukunoor,28
+Burgumpahad,28
+Palwancha,28
+Kothagudem,28
+Tekulapalle,28
+Yellandu,28
+Gundala,28
+Bayyaram,28
+Garla,28
+Singareni,28
+Kamepalle,28
+Julurpadu,28
+Chandrugonda,28
+Mulkalapalle,28
+Aswaraopet,28
+Dammapet,28
+Sathupalle,28
+Penuballe,28
+Enkuru,28
+Tirumalayapalem,28
+Kusumanchi,28
+Khammam (Rural),28
+Khammam (Urban),28
+Mudigonda,28
+Nelakondapalle,28
+Chinthakani,28
+Konijerla,28
+Tallada,28
+Kallur,28
+Wyra,28
+Bonakal,28
+Madhira,28
+Yerrupalem,28
+Vemsoor,28
+Veeraghattam,28
+Seethampeta,28
+Bhamini,28
+Kothuru,28
+Pathapatnam,28
+Meliaputtu,28
+Palasa,28
+Mandasa,28
+Kanchili,28
+Ichchapuram,28
+Kaviti,28
+Sompeta,28
+Vajrapukothuru,28
+Nandigam,28
+Hiramandalam,28
+Palakonda,28
+Vangara,28
+Regidi Amadalavalasa,28
+Laxminarasupeta,28
+Saravakota,28
+Tekkali,28
+Santhabommali,28
+Kotabommili,28
+Jalumuru,28
+Sarubujjili,28
+Burja,28
+Santhakaviti,28
+Rajam,28
+Ganguvarisigadam,28
+Amadalavalasa,28
+Narasannapeta,28
+Polaki,28
+Gara,28
+Srikakulam,28
+Ponduru,28
+Laveru,28
+Ranasthalam,28
+Etcherla,28
+Komarada,28
+Gummalakshmipuram,28
+Kurupam,28
+Jiyyammavalasa,28
+Garugubilli,28
+Parvathipuram,28
+Makkuva,28
+Seethanagaram,28
+Balijipeta,28
+Bobbili,28
+Salur,28
+Pachipenta,28
+Ramabhadrapuram,28
+Badangi,28
+Therlam,28
+Merakamudidam,28
+Dathirajeru,28
+Mentada,28
+Gajapathinagaram,28
+Garividi,28
+Cheepurupalle,28
+Gurla,28
+Bondapalle,28
+Gantyada,28
+Srungavarapukota,28
+Vepada,28
+Lakkavarapukota,28
+Kothavalasa,28
+Jami,28
+Vizianagaram,28
+Nellimarla,28
+Pusapatirega,28
+Denkada,28
+Bhogapuram,28
+Munchingi puttu,28
+Peda bayalu,28
+Dumbriguda,28
+Araku valley,28
+Ananthagiri,28
+Hukumpeta,28
+Paderu,28
+G.madugula,28
+Chintapalle,28
+Gudem kotha veedhi,28
+Koyyuru,28
+Nathavaram,28
+Golugonda,28
+Narsipatnam,28
+Rolugunta,28
+Ravikamatham,28
+Madugula,28
+Cheedikada,28
+Devarapalle,28
+K.Kotapadu,28
+Sabbavaram,28
+Pendurthi,28
+Anandapuram,28
+Padmanabham,28
+Bheemunipatnam,28
+Visakhapatnam (Rural),28
+Visakhapatnam (Urban),28
+Pedagantyada,28
+Gajuwaka,28
+Paravada,28
+Anakapalle,28
+Chodavaram,28
+Butchayyapeta,28
+Kotauratla,28
+Makavarapalem,28
+Kasimkota,28
+Munagapaka,28
+Atchutapuram,28
+Yelamanchili,28
+Nakkapalle,28
+Payakaraopeta,28
+S.Rayavaram,28
+Rambilli,28
+Maredumilli,28
+Devipatnam,28
+Y. Ramavaram,28
+Addateegala,28
+Rajavommangi,28
+Kotananduru,28
+Tuni,28
+Sankhavaram,28
+Yeleswaram,28
+Gangavaram,28
+Rampachodavaram,28
+Seethanagaram,28
+Gokavaram,28
+Jaggampeta,28
+Kirlampudi,28
+Prathipadu,28
+Thondangi,28
+Gollaprolu,28
+Peddapuram,28
+Gandepalle,28
+Korukonda,28
+Rajahmundry (U),28
+Rajahmundry Rural,28
+Rajanagaram,28
+Rangampeta,28
+Samalkota,28
+Pithapuram,28
+Kothapalle,28
+Kakinada Rural,28
+Kakinada (U),28
+Pedapudi,28
+Biccavolu,28
+Anaparthy,28
+Kadiam,28
+Atreyapuram,28
+Mandapeta,28
+Rayavaram,28
+Karapa,28
+Kajuluru,28
+Ramachandrapuram,28
+Alamuru,28
+Ravulapalem,28
+Kothapeta,28
+Kapileswarapuram,28
+Pamarru,28
+Thallarevu,28
+I. Polavaram,28
+Mummidivaram,28
+Ainavilli,28
+P.Gannavaram,28
+Ambajipeta,28
+Mamidikuduru,28
+Razole,28
+Malikipuram,28
+Sakhinetipalle,28
+Allavaram,28
+Amalapuram,28
+Uppalaguptam,28
+Katrenikona,28
+Chintalapudi,28
+Lingapalem,28
+T.Narasapuram,28
+Jeelugu milli,28
+Buttayagudem,28
+Polavaram,28
+Tallapudi,28
+Gopalapuram,28
+Koyyalagudem,28
+Jangareddigudem,28
+Kamavarapukota,28
+Dwarakatirumala,28
+Nallajerla,28
+Devarapalle,28
+Kovvur,28
+Chagallu,28
+Nidadavole,28
+Tadepalligudem,28
+Unguturu,28
+Bhimadole,28
+Pedavegi,28
+Pedapadu,28
+Eluru,28
+Denduluru,28
+Nidamarru,28
+Pentapadu,28
+Undrajavaram,28
+Peravali,28
+Tanuku,28
+Attili,28
+Ganapavaram,28
+Akividu,28
+Undi,28
+Palacoderu,28
+Penumantra,28
+Iragavaram,28
+Penugonda,28
+Achanta,28
+Poduru,28
+Veeravasaram,28
+Bhimavaram,28
+Kalla,28
+Mogaltur,28
+Narsapur,28
+Palacole,28
+Elamanchili,28
+Vatsavai,28
+Jaggayyapeta,28
+Penuganchiprolu,28
+Nandigama,28
+Veerullapadu,28
+Mylavaram,28
+Gampalagudem,28
+Tiruvuru,28
+A.Konduru,28
+Reddigudem,28
+Vissannapeta,28
+Chatrai,28
+Musunuru,28
+Nuzvid,28
+Bapulapadu,28
+Agiripalle,28
+G.Konduru,28
+Kanchikacherla,28
+Chandarlapadu,28
+Ibrahimpatnam,28
+Vijayawada (Urban),28
+Vijayawada (Rural),28
+Gannavaram,28
+Unguturu,28
+Nandivada,28
+Mandavalli,28
+Kaikalur,28
+Kalidindi,28
+Kruthivennu,28
+Bantumilli,28
+Mudinepalle,28
+Gudivada,28
+Pedaparupudi,28
+Kankipadu,28
+Penamaluru,28
+Thotlavalluru,28
+Pamidimukkala,28
+Vuyyuru,28
+Pamarru,28
+Gudlavalleru,28
+Pedana,28
+Guduru,28
+Movva,28
+Ghantasala,28
+Machilipatnam,28
+Challapalle,28
+Mopidevi,28
+Avanigadda,28
+Nagayalanka,28
+Koduru,28
+Macherla,28
+Veldurthy,28
+Durgi,28
+Rentachintala,28
+Gurazala,28
+Dachepalle,28
+Karempudi,28
+Piduguralla,28
+Machavaram,28
+Bellamkonda,28
+Atchampet,28
+Krosuru,28
+Amaravathi,28
+Thullur,28
+Tadepalle,28
+Mangalagiri,28
+Tadikonda,28
+Pedakurapadu,28
+Sattenapalle,28
+Rajupalem,28
+Nekarikallu,28
+Bollapalle,28
+Vinukonda,28
+Nuzendla,28
+Savalyapuram Kanumarlapudi,28
+Ipur,28
+Rompicherla,28
+Narasaraopeta,28
+Muppalla,28
+Nadendla,28
+Chilakaluripet H/o.Purushotha Patnam,28
+Edlapadu,28
+Phirangipuram,28
+Medikonduru,28
+Guntur,28
+Pedakakani,28
+Duggirala,28
+Kollipara,28
+Tenali,28
+Chebrolu,28
+Vatticherukuru,28
+Prathipadu,28
+Pedanandipadu,28
+Kakumanu,28
+Ponnur,28
+Tsundur,28
+Amruthalur,28
+Vemuru,28
+Kollur,28
+Bhattiprolu,28
+Cherukupalle H/o Arumbaka,28
+Pittalavanipalem,28
+Karlapalem,28
+Bapatla,28
+Nizampatnam,28
+Nagaram,28
+Repalle,28
+Yerragondapalem,28
+Pullalacheruvu,28
+Tripuranthakam,28
+Dornala,28
+Pedda Raveedu,28
+Donakonda,28
+Kurichedu,28
+Santhamaguluru,28
+Ballikurava,28
+Martur,28
+Yeddana pudi,28
+Parchur,28
+Karamchedu,28
+Inkollu,28
+Janakavarampanguluru,28
+Addanki,28
+Mundlamuru,28
+Darsi,28
+Markapur,28
+Ardhaveedu,28
+Cumbum,28
+Tarlupadu,28
+Konakanamitla,28
+Podili,28
+Thallur,28
+Korisapadu,28
+Chirala,28
+Vetapalem,28
+Chinaganjam,28
+Naguluppala padu,28
+Maddipadu,28
+Chimakurthy,28
+Marripudi,28
+Hanumanthuni padu,28
+Bestavaripeta,28
+Racherla,28
+Giddaluru,28
+Komarolu,28
+Veligandla,28
+Kanigiri,28
+Kondapi,28
+Santhanuthala padu,28
+Ongole,28
+Kotha patnam,28
+Tangutur,28
+Zarugumilli,28
+Ponnaluru,28
+Pedacherlo palle,28
+Chandra sekhara puram,28
+Pamur,28
+Voletivaripalem,28
+Kandukur,28
+Singarayakonda,28
+Lingasamudram,28
+Gudlur,28
+Ulavapadu,28
+Seetharamapuram,28
+Udayagiri,28
+Varikuntapadu,28
+Kondapuram,28
+Jaladanki,28
+Kavali,28
+Bogole,28
+Kaligiri,28
+Vinjamur,28
+Duttalur,28
+Marripadu,28
+Atmakur,28
+Anumasamudrampeta,28
+Dagadarthi,28
+Allur,28
+Vidavalur,28
+Kodavalur,28
+Buchireddipalem ,28
+Sangam,28
+Chejerla,28
+Ananthasagaram,28
+Kaluvoya,28
+Rapur,28
+Podalakur,28
+Nellore,28
+Kovur,28
+Indukurpet,28
+Thotapalligudur,28
+Muthukur,28
+Venkatachalam,28
+Manubolu,28
+Gudur,28
+Sydapuram,28
+Dakkili,28
+Venkatagiri,28
+Balayapalle,28
+Ozili,28
+Chillakur,28
+Kota,28
+Vakadu,28
+Chittamur,28
+Naidupet,28
+Pellakur,28
+Doravarisatram,28
+Sullurpeta,28
+Tada,28
+Kondapuram,28
+Mylavaram,28
+Peddamudium,28
+Rajupalem,28
+Duvvur,28
+S.Mydukur,28
+Brahmamgarimattam,28
+Sri Avadhuth kasinayana,28
+Kalasapadu,28
+Porumamilla,28
+B.Kodur,28
+Badvel,28
+Gopavaram,28
+Khajipet,28
+Chapadu,28
+Proddatur,28
+Jammalamadugu,28
+Muddanur,28
+Simhadripuram,28
+Lingala,28
+Pulivendla,28
+Vemula,28
+Thondur,28
+Veerapunayunipalle,28
+Yerraguntla,28
+Kamalapuram,28
+Vallur,28
+Chennur,28
+Atlur,28
+Vontimitta,28
+Sidhout,28
+Cuddapah,28
+Chinthakommadinne,28
+Pendlimarry,28
+Vempalle,28
+Chakarayapet,28
+Galiveedu,28
+Chinnamudiam,28
+Sambepalle,28
+T.Sundupalle,28
+Rayachoti,28
+Lakkireddipalle,28
+Ramapuram,28
+Veeraballe,28
+Nandalur,28
+Penagalur,28
+Chitvel,28
+Rajampet,28
+Pullampet,28
+Obulavaripalle,28
+Rly.kodur,28
+Mantralayam,28
+Kosigi,28
+Kowthalam,28
+Pedda kadabur,28
+Yemmiganur,28
+Nandavaram,28
+C.Belagal,28
+Gudur,28
+Kallur,28
+Kurnool,28
+Nandikotkur,28
+Pagidyala,28
+Jupadu bungalow,28
+Kothapalle,28
+Srisailam,28
+Atmakur,28
+Pamulapadu,28
+Midthur,28
+Orvakal,28
+Kodumur,28
+Gonegandla,28
+Adoni,28
+Holagunda,28
+Halaharvi,28
+Alur,28
+Aspari,28
+Devanakonda,28
+Krishnagiri,28
+Veldurthi,28
+Bethamcherla,28
+Panyam,28
+Gadivemula,28
+Velgode,28
+Bandi Atmakur,28
+Nandyal,28
+Mahanandi,28
+Sirvel,28
+Gospadu,28
+Banaganapalle,28
+Dhone,28
+Pathikonda,28
+Chippagiri,28
+Maddikera (East),28
+Tuggali,28
+Peapally,28
+Owk,28
+Koilkuntla,28
+Rudravaram,28
+Allagadda,28
+Dornipadu,28
+Sanjamala,28
+Kolimigundla,28
+Uyyalawada,28
+Chagalamarri,28
+D.Hirehal,28
+Rayadurg,28
+Kanekal,28
+Bommanahal,28
+Vidapanakal,28
+Guntakal,28
+Gooty,28
+Peddavadugur,28
+Yadiki,28
+Tadpatri,28
+Peddapappur,28
+Pamidi,28
+Vijrakarur,28
+Uravakonda,28
+Beluguppa,28
+Gummagatta,28
+Brahmasamudram,28
+Kalyandurg,28
+Atmakur,28
+Kudair,28
+Garladinne,28
+Singanamala,28
+Putlur,28
+Yellanur,28
+Narpala,28
+Bukkarayasamudram,28
+Anantapur,28
+Raptadu,28
+Settur,28
+Kundurpi,28
+Kambadur,28
+Kanaganapalle,28
+Dharmavaram,28
+Bathalapalle,28
+Tadimarri,28
+Mudigubba,28
+Talupula,28
+Nambulapulakunta,28
+Gandlapenta,28
+Kadiri,28
+Nallamada,28
+Bukkapatnam,28
+Kothacheruvu,28
+Chennekothapalle,28
+Ramagiri,28
+Roddam,28
+Madakasira,28
+Amarapuram,28
+Gudibanda,28
+Rolla,28
+Agali,28
+Parigi,28
+Penukonda,28
+Puttaparthi,28
+Obuladevarecheruvu,28
+Nallacheruvu,28
+Tanakallu,28
+Amadagur,28
+Gorantla,28
+Somandepalle,28
+Hindupur,28
+Lepakshi,28
+Chilamathur,28
+Mulakalacheruvu,28
+Thamballapalle,28
+Peddamandyam,28
+Gurramkonda,28
+Kalakada,28
+Kambhamvaripalle,28
+Rompicherla,28
+Yerravaripalem,28
+Tirupathi (Rural),28
+Renigunta,28
+Yerpedu,28
+Srikalahasti,28
+Thottambedu,28
+Buchinaidu Khandriga,28
+Varadaiahpalem,28
+K.V.B.Puram,28
+Tirupati (Urban),28
+Chandragiri,28
+Chinnagottigallu,28
+Piler,28
+Kalikiri,28
+Vayalpad,28
+Kurabalakota,28
+Peddathippa samudram,28
+B.Kothakota,28
+Madanapalle,28
+Nimmanapalle,28
+Sodum,28
+Pulicherla,28
+Pakala,28
+Vedurukuppam,28
+Ramachandra puram,28
+Vadamalapeta,28
+Narayanavanam,28
+Pitchatur,28
+Satyavedu,28
+Nagalapuram,28
+Nindra,28
+Vijayapuram,28
+Nagari,28
+Puttur,28
+Karvetinagar,28
+Penumur,28
+Puthalapattu,28
+Irala,28
+Somala,28
+Chowdepalle,28
+Ramasamudram,28
+Punganur,28
+Peddapanjani,28
+Gangavaram,28
+Thavanampalle,28
+Srirangarajapuram,28
+Gangadhara Nellore,28
+Chittoor,28
+Palamaner,28
+Baireddipalle,28
+Venkatagirikota,28
+Santhipuram ,28
+Gudupalle,28
+Kuppam,28
+Ramakuppam,28
+Bangarupalyam,28
+Yadamari,28
+Gudipala,28
+Palasamudram,28
+Chikodi,29
+Athni,29
+Raybag,29
+Gokak,29
+Hukeri,29
+Belgaum,29
+Khanapur,29
+Sampgaon,29
+Parasgad,29
+Ramdurg,29
+Jamkhandi,29
+Bilgi,29
+Mudhol,29
+Badami,29
+Bagalkot,29
+Hungund,29
+Bijapur,29
+Indi,29
+Sindgi,29
+Basavana Bagevadi,29
+Muddebihal,29
+Aland,29
+Afzalpur,29
+Gulbarga,29
+Chincholi,29
+Sedam,29
+Chitapur,29
+Jevargi,29
+Shahpur,29
+Shorapur,29
+Yadgir,29
+Basavakalyan,29
+Aurad,29
+Bhalki,29
+Bidar,29
+Homnabad,29
+Lingsugur,29
+Devadurga,29
+Raichur,29
+Manvi,29
+Sindhnur,29
+Yelbarga,29
+Kushtagi,29
+Gangawati,29
+Koppal,29
+Nargund,29
+Ron,29
+Gadag,29
+Shirhatti,29
+Mundargi,29
+Dharwad,29
+Navalgund,29
+Hubli,29
+Kalghatgi,29
+Kundgol,29
+Karwar,29
+Supa,29
+Haliyal,29
+Yellapur,29
+Mundgod,29
+Sirsi,29
+Ankola,29
+Kumta,29
+Siddapur,29
+Honavar,29
+Bhatkal,29
+Shiggaon,29
+Savanur,29
+Hangal,29
+Haveri,29
+Byadgi,29
+Hirekerur,29
+Ranibennur,29
+Hadagalli,29
+Hagaribommanahalli,29
+Hospet,29
+Siruguppa,29
+Bellary,29
+Sandur,29
+Kudligi,29
+Molakalmuru,29
+Challakere,29
+Chitradurga,29
+Holalkere,29
+Hosdurga,29
+Hiriyur,29
+Harihar,29
+Harapanahalli,29
+Jagalur,29
+Davanagere,29
+Honnali,29
+Channagiri,29
+Sagar,29
+Sorab,29
+Shikarpur,29
+Hosanagara,29
+Tirthahalli,29
+Shimoga,29
+Bhadravati,29
+Kundapura,29
+Udupi,29
+Karkal,29
+Sringeri,29
+Koppa,29
+Narasimharajapura,29
+Tarikere,29
+Kadur,29
+Chikmagalur,29
+Mudigere,29
+Chiknayakanhalli,29
+Sira,29
+Pavagada,29
+Madhugiri,29
+Koratagere,29
+Tumkur,29
+Gubbi,29
+Tiptur,29
+Turuvekere,29
+Kunigal,29
+Gauribidanur,29
+Chik Ballapur,29
+Gudibanda,29
+Bagepalli,29
+Sidlaghatta,29
+Chintamani,29
+Srinivaspur,29
+Kolar,29
+Malur,29
+Bangarapet,29
+Mulbagal,29
+Bangalore North,29
+Bangalore South,29
+Anekal,29
+Nelamangala,29
+Dod Ballapur,29
+Devanhalli,29
+Hoskote,29
+Magadi,29
+Ramanagaram,29
+Channapatna,29
+Kanakapura,29
+Krishnarajpet,29
+Nagamangala,29
+Pandavapura,29
+Shrirangapattana,29
+Mandya,29
+Maddur,29
+Malavalli,29
+Sakleshpur,29
+Belur,29
+Arsikere,29
+Hassan,29
+Alur,29
+Arkalgud,29
+Hole Narsipur,29
+Channarayapatna,29
+Mangalore,29
+Bantval,29
+Beltangadi,29
+Puttur,29
+Sulya,29
+Madikeri,29
+Somvarpet,29
+Virajpet,29
+Piriyapatna,29
+Hunsur,29
+Krishnarajanagara,29
+Mysore,29
+Heggadadevankote,29
+Nanjangud,29
+Tirumakudal Narsipur,29
+Gundlupet,29
+Chamarajanagar,29
+Yelandur,29
+Kollegal,29
+Pernem,30
+Bardez,30
+Tiswadi,30
+Bicholim ,30
+Satari,30
+Ponda,30
+Mormugao ,30
+Salcete,30
+Quepem ,30
+Sanguem ,30
+Canacona,30
+Amini,31
+Kavaratti,31
+Andrott,31
+Minicoy,31
+Kasaragod,32
+Hosdurg,32
+Taliparamba,32
+Kannur,32
+Thalassery,32
+Mananthavady,32
+Sulthanbathery,32
+Vythiri,32
+Vadakara,32
+Quilandy,32
+Kozhikode,32
+Ernad,32
+Nilambur,32
+Perinthalmanna,32
+Tirur,32
+Tirurangadi,32
+Ponnani,32
+Ottappalam,32
+Mannarkad,32
+Palakkad,32
+Chittur,32
+Alathur,32
+Talappilly,32
+Chavakkad,32
+Thrissur,32
+Kodungallur,32
+Mukundapuram,32
+Kunnathunad,32
+Aluva,32
+Paravur,32
+Kochi,32
+Kanayannur,32
+Muvattupuzha,32
+Kothamangalam,32
+Devikulam,32
+Udumbanchola,32
+Thodupuzha,32
+Peerumade,32
+Meenachil,32
+Vaikom,32
+Kottayam,32
+Changanassery,32
+Kanjirappally,32
+Cherthala,32
+Ambalappuzha,32
+Kuttanad,32
+Karthikappally,32
+Chengannur,32
+Mavelikkara,32
+Thiruvalla,32
+Mallappally,32
+Ranni,32
+Kozhenchery,32
+Adoor,32
+Karunagappally,32
+Kunnathur,32
+Pathanapuram,32
+Kottarakkara,32
+Kollam,32
+Chirayinkeezhu,32
+Nedumangad,32
+Thiruvananthapuram,32
+Neyyattinkara,32
+Gummidipoondi,33
+Ponneri,33
+Uthukkottai,33
+Tiruttani,33
+Pallipattu,33
+Thiruvallur,33
+Poonamallee,33
+Ambattur,33
+Sriperumbudur,33
+Tambaram,33
+Chengalpattu,33
+Kancheepuram,33
+Uthiramerur,33
+Tirukalukundram,33
+Maduranthakam,33
+Cheyyur,33
+Gudiyatham,33
+Katpadi,33
+Wallajah,33
+Arakonam,33
+Arcot,33
+Vellore,33
+Vaniyambadi,33
+Tirupathur,33
+Hosur,33
+Krishnagiri,33
+Denkanikottai,33
+Palakkodu,33
+Pochampalli,33
+Uthangarai,33
+Harur,33
+Pappireddipatti,33
+Dharmapuri,33
+Pennagaram,33
+Arani,33
+Cheyyar,33
+Vandavasi,33
+Polur,33
+Chengam,33
+Tiruvannamalai,33
+Gingee,33
+Tindivanam,33
+Vanur,33
+Viluppuram,33
+Tirukkoyilur,33
+Sankarapuram,33
+Kallakkurichi,33
+Ulundurpettai,33
+Mettur,33
+Omalur,33
+Edappadi,33
+Sankari,33
+Salem,33
+Yercaud,33
+Vazhapadi,33
+Attur,33
+Gangavalli,33
+Tiruchengode,33
+Rasipuram,33
+Namakkal,33
+Paramathi-Velur,33
+Sathyamangalam,33
+Bhavani,33
+Gobichetti - Palayam,33
+Perundurai,33
+Erode,33
+Kangeyam,33
+Dharapuram,33
+Panthalur,33
+Gudalur,33
+Udhagamandalam,33
+Kotagiri,33
+Coonoor,33
+Kundah,33
+Mettupalayam,33
+Avanashi,33
+Tiruppur,33
+Palladam,33
+Coimbatore North,33
+Coimbatore South,33
+Pollachi,33
+Udumalaipettai,33
+Valparai,33
+Palani,33
+Oddanchatram,33
+Vedasandur,33
+Natham,33
+Dindigul,33
+Kodaikanal,33
+Nilakkottai,33
+Aravakurichi,33
+Karur,33
+Krishnarayapuram,33
+Kulithalai,33
+Thottiyam,33
+Musiri,33
+Thuraiyur,33
+Manachanallur,33
+Lalgudi,33
+Srirangam,33
+Tiruchirappalli,33
+Manapparai,33
+Veppanthattai,33
+Perambalur,33
+Kunnam,33
+Sendurai,33
+Udayarpalayam,33
+Ariyalur,33
+Panruti,33
+Cuddalore,33
+Chidambaram,33
+Kattumannarkoil,33
+Virudhachalam,33
+Tittakudi,33
+Sirkali,33
+Mayiladuthurai,33
+Tharangambadi,33
+Nagapattinam,33
+Kilvelur,33
+Thirukkuvalai,33
+Vedaranyam,33
+Valangaiman,33
+Kodavasal,33
+Nannilam,33
+Thiruvarur,33
+Needamangalam,33
+Mannargudi,33
+Thiruthuraipoondi,33
+Thiruvidaimarudur,33
+Kumbakonam,33
+Papanasam,33
+Thiruvaiyaru,33
+Thanjavur,33
+Orathanadu,33
+Pattukkottai,33
+Peravurani,33
+Iluppur,33
+Kulathur,33
+Gandarvakkottai,33
+Pudukkottai,33
+Thirumayam,33
+Alangudi,33
+Aranthangi,33
+Manamelkudi,33
+Avudayarkoil,33
+Tirupathur,33
+Karaikkudi,33
+Devakottai,33
+Sivaganga,33
+Manamadurai,33
+Ilayangudi,33
+Melur,33
+Madurai North,33
+Vadipatti,33
+Usilampatti,33
+Peraiyur,33
+Thirumangalam,33
+Madurai South,33
+Bodinayakanur,33
+Periyakulam,33
+Theni ,33
+Uthamapalayam,33
+Andipatti,33
+Rajapalayam,33
+Srivilliputhur,33
+Sivakasi,33
+Virudhunagar,33
+Kariapatti,33
+Tiruchuli,33
+Aruppukkottai,33
+Sattur,33
+Tiruvadanai,33
+Paramakudi,33
+Mudukulathur,33
+Kamuthi,33
+Kadaladi,33
+Ramanathapuram,33
+Rameswaram,33
+Kovilpatti,33
+Ettayapuram,33
+Vilathikulam,33
+Ottapidaram,33
+Thoothukkudi,33
+Srivaikuntam,33
+Tiruchendur,33
+Sathankulam,33
+Sivagiri,33
+Sankarankoil,33
+Veerakeralamputhur,33
+Tenkasi,33
+Shenkottai,33
+Alangulam,33
+Tirunelveli,33
+Palayamkottai,33
+Ambasamudram,33
+Nanguneri,33
+Radhapuram,33
+Vilavancode,33
+Kalkulam,33
+Thovala,33
+Agastheeswaram,33
+Mannadipet Commune Panchayat,34
+Villianur Commune Panchayat,34
+Ariankuppam Commune Panchayat,34
+Nettapakkam Commune Panchayat,34
+Bahour Commune Panchayat,34
+Nedungadu Commune Panchayat,34
+Kottucherry Commune Panchayat,34
+Thirunallar Commune Panchayat,34
+Neravy Commune Panchayat,34
+Thirumalairayan Pattinam Commune Panchayat,34
+Diglipur,35
+Mayabunder,35
+Rangat,35
+Ferrargunj,35
+Port Blair,35
+Car Nicobar,35
+Nancowry,35
