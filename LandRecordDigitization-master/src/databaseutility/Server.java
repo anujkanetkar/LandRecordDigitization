@@ -31,7 +31,7 @@ public class Server
         {
             //configure the server ie PASSSWORD
             Class.forName(jdbcdriver);
-            conn = DriverManager.getConnection(url,"root","anujk1998");
+            conn = DriverManager.getConnection(url,"root","root123");
         }
         catch(ClassNotFoundException e)
         {
